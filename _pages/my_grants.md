@@ -1,4 +1,14 @@
---- layout: page title: my funding description: Info ---
+---
+layout: archive
+title: "Research"
+permalink: /my_projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 
 ### Current funding and projects
 
