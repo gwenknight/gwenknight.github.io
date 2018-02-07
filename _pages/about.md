@@ -12,8 +12,7 @@ I am an Assistant Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen),
 funded to work on the spread of antimicrobial resistance by an [MRC
 Skills Development
-Fellowship](https://www.mrc.ac.uk/skills-careers/fellowships/skills-
-development-fellowships/).
+Fellowship](https://www.mrc.ac.uk/skills-careers/fellowships/).
 
 My [research](pages/overview.html) mainly focuses how to use
 mathematical modelling to better understand and hence improve the design
