@@ -29,9 +29,3 @@ Associated Infections and Antimicrobial Resistance at Imperial College
 London. Before that I was a postdoc with the [TB Modelling
 group](http://tbmodelling.lshtm.ac.uk/) at LSHTM.
 
-- [Research](pages/overview.html) 
-
-- [Current grants](pages/my_grants.html)
-
-- [CV](pages/cv.html) 
-
