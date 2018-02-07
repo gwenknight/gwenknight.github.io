@@ -19,7 +19,8 @@ For an up to date list of my publications, please refer to my
 My CV
 ======
 
-* 2017 -- present, Assistant Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+2017 -- present, Assistant Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+=====
 
 Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship.
 
