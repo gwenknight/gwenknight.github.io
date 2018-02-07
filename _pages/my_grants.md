@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-### Current funding and projects
+## Current funding and projects
 
-#### MRC Skills Development Fellowship: 
+### MRC Skills Development Fellowship: 
 
 **Title** The dynamics of drug resistance within hospital populations of
 Gram-negative bacteria
@@ -33,7 +33,7 @@ Andersson_Dan_I/)), and my mentor at LSHTM is [Graham
 Medley](https://www.lshtm.ac.uk/aboutus/people/medley.graham).
 
 
-#### MACOTRA
+### MACOTRA
 
 **Aim** To increase our understanding of transmission success to  better
 control MRSA
@@ -48,7 +48,7 @@ Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) at
 SGUL, the University of Lyon and the Dutch National Institute for public
 health and environment.
 
-#### Modeling Infectious Diseases in Healthcare Network (MIND-Healthcare)
+### Modeling Infectious Diseases in Healthcare Network (MIND-Healthcare)
 
 **Aim 1** To investigate similarities and differences in interventions
 for carbapenem resistance control between the UK and USA.
@@ -64,7 +64,7 @@ include Imperial College London ([Alison
 Holmes](https://www.imperial.ac.uk/people/alison.holmes)), Johns Hopkins University School of Medicine, MathEcology,
 University of Maryland.
 
-#### Vaccines and MDR-TB
+### Vaccines and MDR-TB
 
 **Aim**: To estimate the heath impact, cost effectiveness and budget
 impact of novel TB vaccines on MDR TB
