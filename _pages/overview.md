@@ -17,8 +17,7 @@ work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/) to explore
 fitness variation in *Mycobacterium tuberculosis*.
 
 Collaborators: [Dan Andersson and
-group](http://www.imbim.uu.se/Research/Microbiology-immunology/
-Andersson_Dan_I/), [Jodi Lindsay and
+group](http://www.imbim.uu.se/Research/Microbiology-immunology/Andersson_Dan_I/), [Jodi Lindsay and
 group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
 #### Carbapenem resistance in UK hospitals
