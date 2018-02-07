@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### Research themes
+## Research themes
 
-#### Heterogeneity in antimicrobial resistance
+### Heterogeneity in antimicrobial resistance
 
 Bacterial populations are highly heterogeneous, with variation in both
 underlying growth abilities and resistance levels (reflected by varying
@@ -29,7 +29,7 @@ Collaborators: [Dan Andersson and
 group](http://www.imbim.uu.se/Research/Microbiology-immunology/Andersson_Dan_I/), [Jodi Lindsay and
 group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
-#### Carbapenem resistance in UK hospitals
+### Carbapenem resistance in UK hospitals
 
 Carbapenem resistance is a growing problem across the UK, with
 increasing numbers of proportions of infections being reported as
@@ -47,7 +47,7 @@ for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova,
 [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and 
 Siddharth Mookerjee at Imperial College Healthcare NHS Trust 
 
-#### Fitness costs to resistance
+### Fitness costs to resistance
 
 The acquisition of a resistance phenotype often comes with a "fitness
 cost" to the host. Determining the size of this "cost" and its impact on
