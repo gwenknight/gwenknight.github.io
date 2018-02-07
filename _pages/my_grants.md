@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Current projects and funding"
 permalink: /my_projects/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-## Current funding and projects
 
 ### MRC Skills Development Fellowship: 
 
