@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-## My CV
 
 
 ### 2017 -- present, Assistant Professor, London School of Hygiene and Tropical Medicine (LSHTM)
