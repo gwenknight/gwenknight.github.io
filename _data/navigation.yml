@@ -2,18 +2,13 @@
 main:
   - title: "Research"
     url: /overview/
+    
+  - title: "My projects"
+    url: /my_grants/ 
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "My projects"
-    url: /my_grants/    
-
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/ 
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
