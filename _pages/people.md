@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /people/
 title: "People"
 ---
 
