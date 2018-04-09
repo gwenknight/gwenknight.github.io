@@ -14,7 +14,7 @@ funded to work on the spread of antimicrobial resistance by an [MRC
 Skills Development
 Fellowship](https://www.mrc.ac.uk/skills-careers/fellowships/).
 
-My [research](https://gwenknight.github.io/research/) mainly focuses how to use
+My [research](https://gwenknight.github.io/research/) focuses on how to use
 mathematical modelling to better understand and hence improve the design
 of interventions against antibiotic resistance. During my fellowship, I
 will explore heterogeneity in antibiotic resistance, with a main focus
