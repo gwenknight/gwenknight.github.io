@@ -12,10 +12,18 @@ redirect_from:
 
 ### 2017 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, London School of Hygiene and Tropical Medicine (LSHTM)
 
-Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship.
+*Projects*:
+* Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
+* Collaboration with Nichola Naylor on a One Health AMR project with Jo Lines and Jeff Waage
+* Involved in modelling with multiple sub-projects on [MACTORA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Anneke de Vos, Valerie Baede and Wilhem van Wamel at Erasmus, MC 
+* Continuing collaboration to model carbapenem resistance at ICL with Anneke de Vos and Alison Holmes
+* Supervision of Quentin Leclerc's PhD 
 
-*Member of the AMR Centre, TB Centre and the Centre for the Mathematical Modelling of 
-Infectious Diseases*
+*Community*:
+* Evolutionary Dynamics Theme leader for the Centre for the Mathematical Modelling of Infectious Diseases (CMMID)
+* Co-organiser of the CMMID book club
+
+*Member of the AMR Centre, TB Centre and CMMID*
 
 ### 2017 --  present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honorary Lecturer, Imperial College London
 
