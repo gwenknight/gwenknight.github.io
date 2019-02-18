@@ -8,7 +8,7 @@ title: "People"
 ## Research fellows & postdocs
 
 * [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
-    * Research Fellow (2018 - present)
+    * Research Fellow (2018 - present), based at LSHTM 
     * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on low and middle income settings
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
     * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
