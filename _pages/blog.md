@@ -12,3 +12,5 @@ redirect_from:
 
 ## Blog
 
+I am currently co-writing the [blog](https://epidemicsdetective.wordpress.com/) for our fortnightly CMMID bookclub on Ottar Bjornstad's book [“Epidemics: Models and Data using R”](https://www.springer.com/la/book/9783319974866). 
+
