@@ -1,4 +1,14 @@
+---
+title: 'Book club blog'
+date: 2019-02-18
+permalink: /posts/2019/02/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
 
-
+Book Club blog
+======
 
 I am currently co-writing the [blog](https://epidemicsdetective.wordpress.com/) for our fortnightly CMMID bookclub on Ottar Bjornstad's book [“Epidemics: Models and Data using R”](https://www.springer.com/la/book/9783319974866). 
