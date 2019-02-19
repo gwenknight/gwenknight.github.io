@@ -11,6 +11,8 @@ redirect_from:
 
 ## Research themes
 
+My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR). I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to interventions for control in hospitals.
+
 ### Heterogeneity in antimicrobial resistance
 
 Bacterial populations are highly heterogeneous, with variation in both
@@ -26,7 +28,7 @@ work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/) to explore
 fitness variation in *Mycobacterium tuberculosis*.
 
 Collaborators: [Dan Andersson and
-group](http://www.imbim.uu.se/Research/Microbiology-immunology/Andersson_Dan_I/), [Jodi Lindsay and
+group](https://katalog.uu.se/profile/?id=XX3213), [Jodi Lindsay and
 group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
 ### Carbapenem resistance in UK hospitals
