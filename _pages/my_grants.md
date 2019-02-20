@@ -11,12 +11,11 @@ redirect_from:
 
 ### MRC Skills Development Fellowship: 
 
-**Title** The dynamics of drug resistance within hospital populations of
-Gram-negative bacteria
+#### Title: The dynamics of drug resistance within hospital populations of Gram-negative bacteria
 
-I have a 3 year Skills Development fellowship (2017-2020) to construct
-mathematical models of drug resistance from the
-[MRC](https://www.mrc.ac.uk/skills-careers/fellowships/skills-development-fellowships/).
+**Funder** [MRC](https://www.mrc.ac.uk/skills-careers/fellowships/skills-development-fellowships/)
+
+I have a 3 year Skills Development fellowship (2017-2020) to construct mathematical models of drug resistance. 
 
 My collaborators are from Imperial College London ([Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes)), PHE ([Julie Robotham](http://www.imperial.ac.uk/people/j.robotham), [Susan Hopkins](https://www.imperial.ac.uk/people/s.hopkins), [Alan
 Johnson](http://www.imperial.ac.uk/people/a.johnson)), Uppsala University ([Dan Andersson](http://www.imbim.uu.se/Research/Microbiology-immunology/Andersson_Dan_I/)), and my mentor at LSHTM is [Graham Medley](https://www.lshtm.ac.uk/aboutus/people/medley.graham).
@@ -24,7 +23,7 @@ Johnson](http://www.imperial.ac.uk/people/a.johnson)), Uppsala University ([Dan 
 
 ### MACOTRA
 
-**Aim** To increase our understanding of transmission success to better control MRSA
+#### Aim: To increase our understanding of transmission success to better control MRSA
 
 **Funder** EU funded Joint Programming Initiative on Antimicrobial Resistance [JPIAMR](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/)
 
@@ -33,9 +32,7 @@ Erasmus University Medical Center. Other collaborators include [Jodi Lindsay](ht
 
 ### Modeling Infectious Diseases in Healthcare Network (MIND-Healthcare)
 
-**Aim 1** To investigate similarities and differences in interventions for carbapenem resistance control between the UK and USA.
-
-**Aim 2** To develop new models of carbapenem resistance spread
+#### Aims: To investigate similarities and differences in interventions for carbapenem resistance control between the UK and USA and to develop new models of carbapenem resistance spread
 
 **Funder** CDC through the [MIND-Healthcare Network](https://www.cdc.gov/hai/research/MIND-Healthcare.html)
 
@@ -44,7 +41,7 @@ include Imperial College London ([Alison Holmes](https://www.imperial.ac.uk/peop
 
 ### Vaccines and MDR-TB
 
-**Aim** To estimate the heath impact, cost-effectiveness and budget impact of novel TB vaccines on MDR-TB
+#### Aim: To estimate the heath impact, cost-effectiveness and budget impact of novel TB vaccines on MDR-TB
 
 **Funder** AERAS
 
