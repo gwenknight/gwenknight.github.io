@@ -21,7 +21,7 @@ the natural history of an infection is key to developing accurate
 mathematical models of infectious disease spread. My research uses both experimental methods, such as those utilised in my PhD for the bacterium *Staphylococcus aureus*, and mathematical modelling tools for *in situ* data to estimate fitness costs. 
 
 #### Selected publications
-[Fitness costs in TB](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0025): We estimated the fitness costs to multi-drug resistance carriage in *Mycobacterium tuberculosis* in Peru to be substantial from detailed *in situ* data.
+[Fitness costs in TB](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0025): We estimated the fitness costs to multi-drug resistance carriage in *Mycobacterium tuberculosis* from detailed *in situ* data in Peru and found them to be substantial.
 
 [Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes. 
 
@@ -31,7 +31,7 @@ group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
 ### Tackling antibiotic resistance in UK hospitals
 
-I believe mathematical modelling has a key place in informing and guiding interventions for antibiotic reistance and infection control in hospitals. By developing models, fit to hospital data, new interventions as well as hypotheses about resistance development can be developed. I work closely with a number of UK hospitals to align my research questions with clinical need and parametrise them as far as possible with existing clinical data. 
+I believe mathematical modelling has a key place in informing and guiding interventions for antibiotic reistance and infection control in hospitals. By developing models, fit to hospital data, new interventions as well as hypotheses about resistance development can be developed. I work closely with a number of UK hospitals to align my research questions with clinical need and parametrise them as far as possible with existing clinical data. Currently, I am working on SNP cut-offs for MRSA isolates for genome screening in hospitals and transmission differentials between hospital wards. 
 
 Carbapenem resistance is a growing problem across the UK, with increasing numbers of proportions of infections being reported as
 resistant to this last line antibiotic. My MRC fellowship aims to explore the reasons for the variation in carbapenem resistance across
@@ -47,8 +47,14 @@ Siddharth Mookerjee at Imperial College Healthcare NHS Trust.
 
 ### Where does antibiotic resistance come from? 
 
-A fundamental 
+A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Niger) and then their contribution to the economic burden. 
 
+#### Selected publications
+[Opinion piece on this issue](https://www.ncbi.nlm.nih.gov/pubmed/29020246): This piece was written with collaborators from the HPRU at ICL on what data and modelling tools we need. 
+
+[Modelling acquisition](https://www.ncbi.nlm.nih.gov/pubmed/30134939): Modelling work to assess if community or hospital antibioitc use has a bigger impact in the UK. 
+
+#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
 
 ### Heterogeneity in antimicrobial resistance
 
