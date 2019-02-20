@@ -23,10 +23,14 @@ mathematical models of infectious disease spread. My research uses both experime
 #### Selected publications
 [Fitness costs in TB](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0025): We estimated the fitness costs to multi-drug resistance carriage in *Mycobacterium tuberculosis* from detailed *in situ* data in Peru and found them to be substantial.
 
-[Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes. 
+*The relative fitness of drug-resistant Mycobacterium tuberculosis: a modelling study of household transmission in Peru.
+**G. M. Knight**, M. Zimic, S. Funk, R. H. Gilman, J. S. Friedland, L. Grandjean. Journal of the Royal Society, Interface 15 (2018).*
 
-#### Collaborators: 
-[Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), [Jodi Lindsay and
+[Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes.
+
+*Shift in dominant hospital-associated methicillin-resistant Staphylococcus aureus (HA-MRSA) clones over time. **G. M. Knight**, E. L. Budd, L. Whitney, A. Thornley, H. Al-Ghusein, T. Planche, J. A. Lindsay. The Journal of Antimicrobial Chemotherapy 67 (2012), 2514–2522.*
+
+#### Collaborators: [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), [Jodi Lindsay and
 group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
 ### Tackling antibiotic resistance in UK hospitals
@@ -38,10 +42,12 @@ resistant to this last line antibiotic. My MRC fellowship aims to explore the re
 England and to use the results to target interventions for control.
 
 #### Selected publications
-[Screening for carbapenem resistance](). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018. 
+[Screening for carbapenem resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094916/). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018. 
 
-#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU
-for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova, [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and 
+*Fast and expensive (PCR) or cheap and slow (culture)? A mathematical modelling study to explore screening for carbapenem
+resistance in UK hospitals. **G. M. Knight**, E. Dyakova, S. Mookerjee, F. Davies, E. T. Brannigan, J. A. Otter, A. H. Holmes. BMC medicine 16 (2018), 141*
+
+#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova, [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and 
 Siddharth Mookerjee at Imperial College Healthcare NHS Trust.  
 
 
@@ -52,7 +58,11 @@ A fundamental aspect to AbR control is understanding where the AbR bacteria are 
 #### Selected publications
 [Opinion piece on this issue](https://www.ncbi.nlm.nih.gov/pubmed/29020246): This piece was written with collaborators from the HPRU at ICL on what data and modelling tools we need. 
 
+*Addressing the unknowns of antimicrobial resistance: quantifying and mapping the drivers of burden. **G. M. Knight**, C. Costelloe, K. A. Murray, J. V. Robotham, R. Atun, A. H. Holmes. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America (2017).*
+
 [Modelling acquisition](https://www.ncbi.nlm.nih.gov/pubmed/30134939): Modelling work to assess if community or hospital antibioitc use has a bigger impact in the UK. 
+
+*Quantifying where human acquisition of antibiotic resistance occurs: a mathematical modelling study. **G. M. Knight**, C. Costelloe, S. R. Deeny, L. S. P. Moore, S. Hopkins, A. P. Johnson, J. V. Robotham, A. H. Holmes. BMC medicine 16 (2018), 137.*
 
 #### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
 
@@ -70,7 +80,8 @@ treatment design to prevent AMR emergence.
 ### Selected publications 
 [Variation in fitness in *M.tb*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/): We showed the importance of variation in fitness to the future levels of MDR-TB. 
 
-### Collaborators: [Dan Andersson and
-group](https://katalog.uu.se/profile/?id=XX3213), [Jodi Lindsay and
-group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
+*The distribution of fitness costs of resistance-conferring mutations is a key determinant for the future burden of drugresistant
+tuberculosis: a model-based analysis. **G. M. Knight**, C. Colijn, S. Shrestha, M. Fofana, F. Cobelens, R. G. White, D. W. Dowdy, T. Cohen. Clinical Infectious Diseases 61.suppl 3 (2015), S147–S154.*
+
+#### Collaborators: [Dan Andersson and group](https://katalog.uu.se/profile/?id=XX3213) and [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
