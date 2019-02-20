@@ -30,8 +30,7 @@ mathematical models of infectious disease spread. My research uses both experime
 
 *Shift in dominant hospital-associated methicillin-resistant Staphylococcus aureus (HA-MRSA) clones over time. **G. M. Knight**, E. L. Budd, L. Whitney, A. Thornley, H. Al-Ghusein, T. Planche, J. A. Lindsay. The Journal of Antimicrobial Chemotherapy 67 (2012), 2514–2522.*
 
-#### Collaborators: [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), [Jodi Lindsay and
-group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
+#### Collaborators: [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
 ### Tackling antibiotic resistance in UK hospitals
 
@@ -47,8 +46,7 @@ England and to use the results to target interventions for control.
 *Fast and expensive (PCR) or cheap and slow (culture)? A mathematical modelling study to explore screening for carbapenem
 resistance in UK hospitals. **G. M. Knight**, E. Dyakova, S. Mookerjee, F. Davies, E. T. Brannigan, J. A. Otter, A. H. Holmes. BMC medicine 16 (2018), 141*
 
-#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova, [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and 
-Siddharth Mookerjee at Imperial College Healthcare NHS Trust.  
+#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova, [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and Siddharth Mookerjee at Imperial College Healthcare NHS Trust.  
 
 
 ### Where does antibiotic resistance come from? 
