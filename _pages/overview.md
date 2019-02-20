@@ -79,3 +79,16 @@ tuberculosis: a model-based analysis. **G. M. Knight**, C. Colijn, S. Shrestha, 
 
 #### Collaborators: [Dan Andersson and group](https://katalog.uu.se/profile/?id=XX3213) and [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
 
+### TB Vaccines
+
+I also have a long-term interest in the development and impact of new TB vaccines on TB control, continued from my postdoc work at LSHTM. This has two strands. Firstly, using population models to assess the impact of potential new vaccines on TB incidence and secondly, the development of a new framework for vaccine dosing in general that was stimulated by initial quantitative analysis of TB vaccine dosing. The latter will be, I believe, highly important for vaccine design in the future as we move towards something like the quantitative PK/PD framework employed by drug dosing. 
+
+#### Selected publications
+[Impact of adult vs. infant TB vaccination strategies](https://www.ncbi.nlm.nih.gov/pubmed/25288770): This work provided evidence for several of the key TB vaccine organisations to move their portfolio focus to infant rather than adult vaccination strategies. 
+
+*Impact and cost-effectiveness of new tuberculosis vaccines in low-and middle-income countries. **G. M. Knight**, U. K. Griffiths, T. Sumner, Y. V. Laurence, A. Gheorghe, A. Vassall, P. Glaziou, R. G. White. Proceedings of the National Academy of Sciences 111.43 (2014), 15520–15525.*
+
+[Overview piece on our new dosing framework](https://www.ncbi.nlm.nih.gov/pubmed/30639297): This work outlines our thoughts on how to determine vaccine dose in a structured manner and references Sophie's TB work in this field. 
+
+*Dose finding for new vaccines: The role for immunostimulation/immunodynamic modelling. S. J. Rhodes, **G. M. Knight**, D. E. Kirschner, R. G. White, T. G. Evans. Journal of theoretical biology 465 (2019), 51–55.*
+
