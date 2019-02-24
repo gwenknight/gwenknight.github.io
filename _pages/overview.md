@@ -16,7 +16,7 @@ cost" to the host. Determining the size of this "cost" and its impact on
 the natural history of an infection is key to developing accurate
 mathematical models of infectious disease spread. My research uses both experimental methods, such as those utilised in my PhD for the bacterium *Staphylococcus aureus*, and mathematical modelling tools for *in situ* data to estimate fitness costs. 
 
-#### Selected publications
+### *Selected publications*
 [Fitness costs in TB](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0025): We estimated the fitness costs to multi-drug resistance carriage in *Mycobacterium tuberculosis* from detailed *in situ* data in Peru and found them to be substantial.
 
 *The relative fitness of drug-resistant Mycobacterium tuberculosis: a modelling study of household transmission in Peru.
@@ -36,7 +36,7 @@ Carbapenem resistance is a growing problem across the UK, with increasing number
 resistant to this last line antibiotic. My MRC fellowship aims to explore the reasons for the variation in carbapenem resistance across
 England and to use the results to target interventions for control.
 
-#### Selected publications
+### *Selected publications*
 [Screening for carbapenem resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094916/). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018. 
 
 *Fast and expensive (PCR) or cheap and slow (culture)? A mathematical modelling study to explore screening for carbapenem
@@ -49,7 +49,7 @@ resistance in UK hospitals. **G. M. Knight**, E. Dyakova, S. Mookerjee, F. Davie
 
 A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Niger) and then their contribution to the economic burden. 
 
-#### Selected publications
+### *Selected publications*
 [Opinion piece on this issue](https://www.ncbi.nlm.nih.gov/pubmed/29020246): This piece was written with collaborators from the HPRU at ICL on what data and modelling tools we need. 
 
 *Addressing the unknowns of antimicrobial resistance: quantifying and mapping the drivers of burden. **G. M. Knight**, C. Costelloe, K. A. Murray, J. V. Robotham, R. Atun, A. H. Holmes. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America (2017).*
@@ -71,7 +71,7 @@ control. In this aspect of my research, I am working to develop a new modelling
 framework to better understand the underlying dynamics and to improve
 treatment design to prevent AMR emergence. 
 
-### Selected publications 
+### *Selected publications*
 [Variation in fitness in *M.tb*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/): We showed the importance of variation in fitness to the future levels of MDR-TB. 
 
 *The distribution of fitness costs of resistance-conferring mutations is a key determinant for the future burden of drugresistant
@@ -81,9 +81,9 @@ tuberculosis: a model-based analysis. **G. M. Knight**, C. Colijn, S. Shrestha, 
 
 ### TB Vaccines
 
-I also have a long-term interest in the development and impact of new TB vaccines on TB control, continued from my postdoc work at LSHTM. This has two strands. Firstly, using population models to assess the impact of potential new vaccines on TB incidence and secondly, the development of a new framework for vaccine dosing in general that was stimulated by initial quantitative analysis of TB vaccine dosing. The latter will be, I believe, highly important for vaccine design in the future as we move towards something like the quantitative PK/PD framework employed by drug dosing. 
+I also have a long-term interest in the development and impact of new TB vaccines for TB control, continued from my postdoc work at LSHTM. This has two strands. Firstly, using population models to assess the impact of potential new vaccines on TB incidence and secondly, the development of a new framework for vaccine dosing in general that was stimulated by initial quantitative analysis of TB vaccine dosing. The latter will be, I believe, highly important for vaccine design in the future as we move towards something like the quantitative PK/PD framework employed by drug dosing. 
 
-#### Selected publications
+### *Selected publications*
 [Impact of adult vs. infant TB vaccination strategies](https://www.ncbi.nlm.nih.gov/pubmed/25288770): This work provided evidence for several of the key TB vaccine organisations to move their portfolio focus to infant rather than adult vaccination strategies. 
 
 *Impact and cost-effectiveness of new tuberculosis vaccines in low-and middle-income countries. **G. M. Knight**, U. K. Griffiths, T. Sumner, Y. V. Laurence, A. Gheorghe, A. Vassall, P. Glaziou, R. G. White. Proceedings of the National Academy of Sciences 111.43 (2014), 15520–15525.*
