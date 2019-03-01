@@ -20,6 +20,7 @@ redirect_from:
 * Supervision of Quentin Leclerc's PhD 
 
 *Community*:
+* Co-organiser of the Distance Learning Modelling and the Dynamics of Infectious Diseases module
 * Evolutionary Dynamics Theme leader for the Centre for the Mathematical Modelling of Infectious Diseases (CMMID)
 * Co-organiser of the CMMID book club
 
