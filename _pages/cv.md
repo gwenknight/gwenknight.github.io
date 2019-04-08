@@ -15,7 +15,7 @@ redirect_from:
 *Projects*:
 * Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
 * Collaboration with Nichola Naylor on a One Health AMR project with Jo Lines and Jeff Waage
-* Involved in modelling with multiple sub-projects on [MACTORA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Anneke de Vos, Valerie Baede and Wilhem van Wamel at Erasmus, MC 
+* Involved in modelling with multiple sub-projects on [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Anneke de Vos, Valerie Baede and Wilhem van Wamel at Erasmus, MC 
 * Continuing collaboration to model carbapenem resistance at ICL with Andrea Weisse and Alison Holmes
 * Supervision of Quentin Leclerc's PhD 
 
