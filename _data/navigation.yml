@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+
+  - title: "News"
+    url: /news/  
     
   - title: "My projects"
     url: /my_projects/ 
