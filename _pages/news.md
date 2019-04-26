@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### April 2019: Quentin upgraded to PhD candidate
+
+Quentin passed his upgrading viva, with examiners Peter Mullany and Katherine Atkins. 
+
 ### April 2019: Gwen leads winning team of Wellcome Data Re-Use Prize
 
 Gwen, Nichola and Quentin were all involved in the LSHTM AR.IA team that won the Wellcome Data Re-Use Prize on AMR. We developed a syndrome-level composite index to guide empiric therapy decisions using a new large open access Pfizer database on bacterial resistance provided by Wellcome for this prize. For more information check out our [report](https://www.synapse.org/#!Synapse:syn18201040/wiki/588540) and the Shiny [app](https://gwenknight.shinyapps.io/empiric_prescribing/) we developed, or see the writeup in the [LSHTM AMR Centre newsletter](https://us14.campaign-archive.com/?u=df3850780881af5c9b292f260&id=22095d320b). 
