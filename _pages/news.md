@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### May 2019: Gwen on maternity leave
+
+Lovely baby Nora was born on 30th April. Gwen is now on maternity leave until February 2020 with occasional email contact. 
+
 ### April 2019: Quentin upgraded to PhD candidate
 
 Quentin passed his upgrading viva, with examiners Peter Mullany and Katherine Atkins. 
