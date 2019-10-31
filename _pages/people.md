@@ -27,7 +27,7 @@ title: "People"
     
 ## PhD Students
 
-* [Quentin Leclerc](https://www.lshtm.ac.uk/aboutus/people/leclerc.quentin)
+* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
     * PhD Student (2018 - present) 
     * Project: Mathematical modelling for control of Methillin Resistant S. aureus (MRSA) 
     * Funding: MRC LID fellowship
