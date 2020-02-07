@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### February 2020: Gwen back to work
+
+Gwen is now back at work - lots to catch up on but amazing how much has stayed the same...
+
 ### May 2019: Gwen on maternity leave
 
 Lovely baby Nora was born on 30th April. Gwen is now on maternity leave until February 2020 with occasional email contact. 
