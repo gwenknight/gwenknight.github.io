@@ -5,6 +5,12 @@ title: "News"
 
 {% include base_path %}
 
+### February 2020: Gwen and Quentin present at UK Parliament
+
+Quentin and Gwen presented the Wellcome Data ReUse prize work, with Francesc Coll, at a Superbug POST event at Portcullis House. For more information (and some nice pictures of Quentin) see here: 
+
+https://twitter.com/i/events/1232714747763724288
+
 ### February 2020: Gwen back to work
 
 Gwen is now back at work - lots to catch up on but amazing how much has stayed the same...
