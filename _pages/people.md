@@ -13,6 +13,29 @@ title: "People"
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
     * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
     
+    
+## PhD Students
+
+* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
+    * PhD Student (2018 - present) 
+    * Project: Modelling to understand horizontal gene transfer: the example of transduction in Methillin Resistant S. aureus (MRSA) 
+    * Funding: MRC LID fellowship
+    * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+    
+ * [Naomi Fuller]
+    * PhD Student (2020 - present) 
+    * Project: Resistance evolution in the presence of combination therapy (focus on TB)
+    * Funding: MRC LID fellowship
+    * Co-supervisors: [Prof. Tim McHugh](https://www.ucl.ac.uk/tb/people/professor-tim-mchugh) (UCL)
+
+* [Jacob Wildfire]
+    * PhD Student (2020 - present) 
+    * Project: Barriers to the spread of antimicrobial resistance by horizontal gene transfer (focus on MRSA)
+    * Funding: MRC LID fellowship
+    * Co-supervisors (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+
+## *Past postdocs*
+
 * [Anneke de Vos](https://www.researchgate.net/profile/Anneke_De_Vos2)
     * Research Fellow (2018 - present), based at Erasmus MC, Univ. Medical Center Rotterdam, Netherlands
     * Project: Investigating the underlying mechanisms of MRSA clonal dynamics
@@ -24,14 +47,6 @@ title: "People"
     * Project: Mechanisms of spread and control of carbapenem resistant bacteria
     * Funding: [CDC MIND-Healthcare Program](https://www.cdc.gov/hai/research/MIND-Healthcare.html)
     * Collaborators: [Prof. Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Dr. Eili Klein](https://cddep.org/profile/eili-klein/) (CDDEP)
-    
-## PhD Students
-
-* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
-    * PhD Student (2018 - present) 
-    * Project: Mathematical modelling for control of Methillin Resistant S. aureus (MRSA) 
-    * Funding: MRC LID fellowship
-    * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
 ## *Past Students*
 
