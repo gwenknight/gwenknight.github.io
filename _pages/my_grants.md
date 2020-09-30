@@ -7,6 +7,17 @@ title: "Current Grants"
 
 {% include base_path %}
 
+### NIHR-UKRI COVID-19 funding award: 
+
+#### Title: Nosocomial transmission of SARS-CoV-2
+
+#### **Funder** [NIHR-UKRI]
+
+This one year post will look at the spread of SARS-CoV-2 within UK hospitals. The aim is to determine the contribution of transmission in this setting to the overall epidemic in the first 6 months of 2020. 
+
+This is a team effort. I am the PI but will work closely with the co-PIs of: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
+
+
 ### MRC Skills Development Fellowship: 
 
 #### Title: The dynamics of drug resistance within hospital populations of Gram-negative bacteria
