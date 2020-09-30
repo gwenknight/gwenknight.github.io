@@ -14,13 +14,12 @@ funded to work on the spread of antimicrobial resistance by an [MRC
 Skills Development
 Fellowship](https://www.mrc.ac.uk/skills-careers/fellowships/).
 
-My [research](https://gwenknight.github.io/research/) focuses on how to use
-mathematical modelling to better understand and hence improve the design
-of interventions against antibiotic resistance. During my fellowship, I
-will explore heterogeneity in antibiotic resistance, with a main focus
-on carbapenem resistance in England. Alongside this work, I am
-interested in the spread of methicillin resistant *Staphylococcus
-aureus* (MRSA) and multi-drug resistant tuberculosis.
+My [research](https://gwenknight.github.io/research/) uses
+mathematical modelling to better understand the spread of pathogens, with a particular focus on antibacterial resistance.
+
+In antibiotic resistance, I an interested in capturing bacterial heterogeneity and its influence on AMR development. I work mainly with the pathogens methicillin resistant *Staphylococcus aureus* (MRSA) and multi-drug resistant tuberculosis (MDR-TB).
+
+I am also intersted in *where* transmission and selection occurs. This has become increasingly important during the COVID-19 pandemic. I've worked on this exploring settings of transmission of SARS-CoV-2 by looking for open access reported clusters and am now focused on the contribution of the hospital environment to ongoing spread. 
 
 I previously worked at the NIHR funded
 [HPRU](https://www.imperial.ac.uk/medicine/hpru-amr) for Healthcare
