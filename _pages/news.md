@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### September 2020: Knight group meet 
+
+In a physically distanced way, Quentin, Nichola, Naomi and Gwen met in person, for the first time in over 6 months. Over a glass or two in a windy pub garden we discussed our plans for the next 3months/1yr/5yrs and how we've coped with the COVID-19 pandemic. Great to see faces in 3D! 
+
 ### February 2020: Gwen and Quentin present at UK Parliament
 
 Quentin and Gwen presented the Wellcome Data ReUse prize work, with Francesc Coll, at a Superbug POST event at Portcullis House. For more information (and some nice pictures of Quentin) see here: 
