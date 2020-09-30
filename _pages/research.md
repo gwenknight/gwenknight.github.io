@@ -18,7 +18,7 @@ The COVID-19 pandemic has fundamentally affected the way we do research, and for
 
 *Leclerc QJ, Fuller NM, Knight LE, CMMID Working Group, Funk S, **Knight GM**. What settings have been linked to SARS-CoV-2 transmission clusters? [version 2; peer review: 2 approved]. Wellcome Open Res 2020, 5:83 (https://doi.org/10.12688/wellcomeopenres.15889.2)*
 
-#### Collaborators: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham, PHE](https://www.imperial.ac.uk/people/j.robotham), [Jon Read, Lancaster](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper, Oxford](https://www.ndm.ox.ac.uk/team/ben-cooper)
+#### Collaborators: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham (PHE)](https://www.imperial.ac.uk/people/j.robotham), [Jon Read (Lancaster)](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper (Oxford)](https://www.ndm.ox.ac.uk/team/ben-cooper)
 
 ### Fitness costs to resistance
 
