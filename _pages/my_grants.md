@@ -11,7 +11,7 @@ title: "Current Grants"
 
 #### Title: Nosocomial transmission of SARS-CoV-2
 
-#### **Funder** [NIHR-UKRI]
+#### **Funder** [NIHR-UKRI](https://www.ukri.org/news/5-million-for-new-research-projects-investigating-how-coronavirus-spreads/)
 
 This one year post will look at the spread of SARS-CoV-2 within UK hospitals. The aim is to determine the contribution of transmission in this setting to the overall epidemic in the first 6 months of 2020. 
 
