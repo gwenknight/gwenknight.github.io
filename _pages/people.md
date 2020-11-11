@@ -22,13 +22,13 @@ title: "People"
     * Funding: MRC LID fellowship
     * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
     
- * Naomi Fuller
+ * [Naomi Fuller](https://www.lshtm.ac.uk/aboutus/people/fuller.naomi)
     * PhD Student (2020 - present) 
     * Project: Resistance evolution in the presence of combination therapy (focus on TB)
     * Funding: MRC LID fellowship
     * Co-supervisors: [Prof. Tim McHugh](https://www.ucl.ac.uk/tb/people/professor-tim-mchugh) (UCL)
 
-* Jacob Wildfire
+* [Jacob Wildfire](https://www.lshtm.ac.uk/aboutus/people/wildfire.jacob)
     * PhD Student (2020 - present) 
     * Project: Barriers to the spread of antimicrobial resistance by horizontal gene transfer (focus on MRSA)
     * Funding: MRC LID fellowship
