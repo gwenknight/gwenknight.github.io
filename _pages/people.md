@@ -17,7 +17,7 @@ title: "People"
     * Research Fellow (2020-2021), based at LSHTM 
     * Project: Nosocomial transmission of SARS-CoV-2 in the UK 
     * Funding: NIHR UKRI
-    * Collaborators: Julie Robotham, Ben Cooper, Jon Read
+    * Collaborators: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
     
     
 ## PhD Students
