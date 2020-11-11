@@ -13,6 +13,12 @@ title: "People"
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
     * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
     
+ * Yalda Jafari 
+    * Research Fellow (2020-2021), based at LSHTM 
+    * Project: Nosocomial transmission of SARS-CoV-2 in the UK 
+    * Funding: NIHR UKRI
+    * Collaborators: Julie Robotham, Ben Cooper, Jon Read
+    
     
 ## PhD Students
 
