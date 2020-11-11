@@ -11,14 +11,16 @@ My research is united by the use of mathematical modelling to tackle the spread 
 
 ### COVID-19
 
-The COVID-19 pandemic has fundamentally affected the way we do research, and for many mathematical modellers of infectious disease, the questions we now need to ask. My research on COVID-19 has taken two main paths: one was to provide support for UCLH to calculate bed occupancy during the London outbreak in the Spring of 2020. This has led to research into the length of stay of patients with COVID-19. Secondly, I've been looking into the spread of SARS-CoV-2 - which settings are associated with transmission? This has led me to focus now on hospital environments. 
+The COVID-19 pandemic has fundamentally affected the way we do research, and for many mathematical modellers of infectious disease, the questions we now need to ask. My research on COVID-19 has taken two main paths: one was to provide support for UCLH to calculate bed occupancy during the London outbreak in the Spring of 2020. This has led to research into the length of stay of patients with COVID-19. 
+
+Secondly, I've been looking into the spread of SARS-CoV-2 - which settings are associated with transmission? This has led me to focus now on hospital environments. We now have a grant to look specifically at heteogeneity between Trusts and interventions to control. 
 
 ### *Selected publications*
 [Settings of transmission](https://wellcomeopenresearch.org/articles/5-83/v2): We set up a peer supported database of clusters of SARS-CoV-2 infections linked to transmission in specific settings. This database collection is continuing at [our website](covid19settings.com). Please volunteer to help us find clusters if you can! 
 
 *Leclerc QJ, Fuller NM, Knight LE, CMMID Working Group, Funk S, **Knight GM**. What settings have been linked to SARS-CoV-2 transmission clusters? [version 2; peer review: 2 approved]. Wellcome Open Res 2020, 5:83 (https://doi.org/10.12688/wellcomeopenres.15889.2)*
 
-#### Collaborators: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham (PHE)](https://www.imperial.ac.uk/people/j.robotham), [Jon Read (Lancaster)](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper (Oxford)](https://www.ndm.ox.ac.uk/team/ben-cooper)
+#### Collaborators on hospital transmission work: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham (PHE)](https://www.imperial.ac.uk/people/j.robotham), [Jon Read (Lancaster)](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper (Oxford)](https://www.ndm.ox.ac.uk/team/ben-cooper)
 
 ### Fitness costs to resistance
 
