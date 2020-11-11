@@ -5,9 +5,21 @@ title: "News"
 
 {% include base_path %}
 
+### November 2020: Welcome to Yalda!
+
+Yalda Jafari has started work on the NIHR Nosocomial transmission of SARS-CoV-2 grant. She will be working alongside Gwen, with Ben Cooper (Oxford), Jon Read (Lancaster) and Julie Robotham and her team at PHE. First thing to do: understand the heterogeneity between English Trusts in terms of their level of nosocomial transmission. Great to have her skills on board! 
+
+### September 2020: Welcome to Jake!
+
+Jake Wildfire has started his MRCLID PhD with Jodi Lindsay and myself. His project will explore the mechanisms behind generalised transduction to explore the rate of transfer of antibiotic resistance genes. Super to get some more lab data and further questions for the models. 
+
 ### September 2020: Knight group meet 
 
 In a physically distanced way, Quentin, Nichola, Naomi and Gwen met in person, for the first time in over 6 months. Over a glass or two in a windy pub garden we discussed our plans for the next 3months/1yr/5yrs and how we've coped with the COVID-19 pandemic. Great to see faces in 3D! 
+
+### July 2020: An "official welcome" to Naomi
+
+Naomi Fuller has decided to take up a PhD position with me and Tim McHugh to look at all things resistance in Mtb. She'll focus on what happens at sub-MIC concentrations and bystander selection at first and then we'll see where we go! Great to have her on the team. 
 
 ### February 2020: Gwen and Quentin present at UK Parliament
 
