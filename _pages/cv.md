@@ -10,7 +10,24 @@ redirect_from:
 {% include base_path %}
 
 
-### 2017 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+### 2021 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+
+*Projects*:
+* Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
+* Modelling the spread of SARS-CoV-2 in hospital environments 
+* Collaboration with Nichola Naylor and Tresco Emes on a One Health AMR project with Jo Lines and Jeff Waage
+* Involved in modelling with multiple sub-projects on [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Valerie Baede and Wilem van Wamel at Erasmus, MC 
+* Supervision of Quentin Leclerc's PhD on phage dynamics and S. aureus
+* Supervision of Naomi Fuller's PhD on resistance mutations in M.tb
+* Supervision of Jake Wildfire's PhD on determinants of generalised transduction in S. aureus 
+
+*Community*:
+* Co-organiser of the Distance Learning Modelling and the Dynamics of Infectious Diseases module
+* Deputy Director of the AMR Centre
+
+*Member of the TB Centre and CMMID*
+
+### 2017 -- 2020    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, LSHTM
 
 *Projects*:
 * Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
