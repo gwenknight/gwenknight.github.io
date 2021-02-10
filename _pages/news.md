@@ -5,13 +5,21 @@ title: "News"
 
 {% include base_path %}
 
+### February 2021: Welcome to Tresco and good luck to Nichola!
+
+Tresco Emes has taken over Nichola's project on One Health evaluations of interventions to prevent antimicrobial resistance. Nichola is heading to a new exciting post at PHE with Julie Robotham. She is keeping an honorary contract at LSHTM so we hope to still see her often. 
+
+### January 2021: New year, new lockdown, FortKnight still going strong
+
+We started the year with a review of progress... what has happened since we met in September?! 
+
 ### November 2020: Welcome to Yalda!
 
 Yalda Jafari has started work on the NIHR Nosocomial transmission of SARS-CoV-2 grant. She will be working alongside Gwen, with Ben Cooper (Oxford), Jon Read (Lancaster) and Julie Robotham and her team at PHE. First thing to do: understand the heterogeneity between English Trusts in terms of their level of nosocomial transmission. Great to have her skills on board! 
 
 ### September 2020: Welcome to Jake!
 
-Jake Wildfire has started his MRCLID PhD with Jodi Lindsay and myself. His project will explore the mechanisms behind generalised transduction to explore the rate of transfer of antibiotic resistance genes. Super to get some more lab data and further questions for the models. 
+Jake Wildfire has started his MRCLID PhD with Jodi Lindsay and Gwen. His project will explore the mechanisms behind generalised transduction to explore the rate of transfer of antibiotic resistance genes. Super to get some more lab data and further questions for the models. 
 
 ### September 2020: Knight group meet 
 
