@@ -7,9 +7,9 @@ title: "People"
 
 ## Research fellows & postdocs
 
-* [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
-    * Research Fellow (2018 - present), based at LSHTM 
-    * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on low and middle income settings
+* [Tresco Emes](https://www.linkedin.com/in/david-emes-%E6%98%93%E5%B0%8F%E9%BE%99-787873150/?originalSubdomain=uk)
+    * Research Fellow (2021 - present), based at LSHTM 
+    * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on Viet Nam
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
     * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
     
@@ -42,14 +42,21 @@ title: "People"
 
 ## *Past postdocs*
 
+* [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
+    * Public Health England, Economist / Honorary contract at LSHTM 
+    * Research Fellow (2018 - 2020), based at LSHTM 
+    * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on low and middle income settings
+    * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
+    * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
+
 * [Anneke de Vos](https://www.researchgate.net/profile/Anneke_De_Vos2)
-    * Research Fellow (2018 - present), based at Erasmus MC, Univ. Medical Center Rotterdam, Netherlands
+    * Research Fellow (2018 - 2020), based at Erasmus MC, Univ. Medical Center Rotterdam, Netherlands
     * Project: Investigating the underlying mechanisms of MRSA clonal dynamics
     * Funding: [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/)
     * Collaborators: [Prof. Sake de Vlas](https://scholar.google.com/citations?user=MeqoQ4QAAAAJ&hl=en) (Erasmus MC), [Prof. Dr. Magreet Vos](http://www.safety-and-security.nl/people/profdr-margreet-vos) and [Dr. M.E.E. (Mirjam) Kretzschmar](https://www.umcutrecht.nl/en/Research/Researchers/Kretzschmar-Mirjam-MEE) (UMC Utrecht) 
     
  * [Andrea Weisse](https://www.imperial.ac.uk/people/andrea.weisse)
-    * Research Associate (2018 - present), based at Imperial College London
+    * Research Associate (2018 - 2020), based at Imperial College London
     * Project: Mechanisms of spread and control of carbapenem resistant bacteria
     * Funding: [CDC MIND-Healthcare Program](https://www.cdc.gov/hai/research/MIND-Healthcare.html)
     * Collaborators: [Prof. Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Dr. Eili Klein](https://cddep.org/profile/eili-klein/) (CDDEP)
@@ -57,7 +64,7 @@ title: "People"
 ## *Past Students*
 
 * Nichola Naylor
-    * PhD Student (2015 - 2019), currently working with me at LSHTM on another project. 
+    * PhD Student (2015 - 2019), then LSHTM, then PHE
     * Project: Economic evaluations of the burden of *E. coli* infections in England
     * Co-supervisors: [Dr. Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) (PHE & Imperial College London) and [Prof. Rifat Atun](https://www.hsph.harvard.edu/rifat-atun/) (Harvard School of Public Health) 
 
