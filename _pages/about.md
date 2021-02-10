@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [London School of Hygiene and
+I am an Associate Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen),
 funded to work on the spread of antimicrobial resistance by an [MRC
 Skills Development
