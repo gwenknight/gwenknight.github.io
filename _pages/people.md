@@ -5,6 +5,8 @@ title: "People"
 
 {% include base_path %}
 
+COVID-19 has made meeting up regularly difficult and working from home is isolating. So a group of us meet every other week for FortKnight where we have a two presentations: one of us presents a piece of their own work, one of us presents an interesting report / presentation. Check out my Twitter feed for examples of our interesting discussions. We are currently 6 people in "KnightGroup". 
+
 ## Research fellows & postdocs
 
 * [Tresco Emes](https://www.linkedin.com/in/david-emes-%E6%98%93%E5%B0%8F%E9%BE%99-787873150/?originalSubdomain=uk)
@@ -12,13 +14,6 @@ title: "People"
     * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on Viet Nam
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
     * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
-    
- * Yalda Jafari 
-    * Research Fellow (2020-2021), based at LSHTM 
-    * Project: Nosocomial transmission of SARS-CoV-2 in the UK 
-    * Funding: NIHR UKRI
-    * Collaborators: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
-    
     
 ## PhD Students
 
@@ -60,6 +55,14 @@ title: "People"
     * Project: Mechanisms of spread and control of carbapenem resistant bacteria
     * Funding: [CDC MIND-Healthcare Program](https://www.cdc.gov/hai/research/MIND-Healthcare.html)
     * Collaborators: [Prof. Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Dr. Eili Klein](https://cddep.org/profile/eili-klein/) (CDDEP)
+
+## *Past research assistants*
+* Yalda Jafari 
+    * Research Assistant (2020-2021), based at LSHTM 
+    * Project: Nosocomial transmission of SARS-CoV-2 in the UK 
+    * Funding: NIHR UKRI
+    * Collaborators: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
+
 
 ## *Past Students*
 
