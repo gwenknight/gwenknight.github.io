@@ -1,11 +1,13 @@
 ---
 permalink: /my_projects/
-title: "Current Grants"
+title: "Grants"
 ---
 
 {% include base_path %}
 
 {% include base_path %}
+
+## Current Grants
 
 ### NIHR-UKRI COVID-19 funding award: 
 
@@ -17,6 +19,19 @@ This one year post will look at the spread of SARS-CoV-2 within UK hospitals. Th
 
 This is a team effort. I am the PI but will work closely with the co-PIs of: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
 
+For more information about some of the results of this project you can see a talk by Jon and I [here](https://www.newton.ac.uk/seminar/20210906120013001/). 
+
+### Pfizer / ISID joint award: 
+
+#### Title: Implementation of syndrome-level empiric antibiotic recommendations using the AR:IA app: a pilot study in Lusaka, Zambia"
+
+#### **Funder** [Pfizer / ISID](https://isid.org/isid-pfizer-grant-program-ams-africa-middle-east/)
+
+This project will collect data on AMR prevalence in Zambia to pilot and support further development of our [AR:IA app](https://wellcomeopenresearch.org/articles/4-140) developed for the Wellcome Data AMR Surveillance ReUse Prize. 
+
+My role (coPI) is to co-ordinate the project and develop the open-access empiric prescribing app in discussion with Zambian clinical collaborators to optimise support for empiric prescribing guideline formation by allowing for local resistance prevalence to be uploaded to the app. The main PI is Sombo Fwoloshi (University Teaching Hospital (UTH), Lusaka, Zambia). Our co-Is are at the University Teaching Hospital / Kanyama General Hospital (Uchizi Chola, Kaunda Yamba), Zambart (Sarah Lou Bailey) and Brighton Lusaka Health Link (Lusaka: A Kalungia.Brighton: J. Islam, A St. Clair Jones, S Lippett and FL Rees) and LSHTM ([Dr A. Aiken](https://www.lshtm.ac.uk/aboutus/people/aiken.alex)). 
+
+## Past awards
 
 ### MRC Skills Development Fellowship: 
 
