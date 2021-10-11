@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### September 2021: Welcome to Alastair
+Alastair Clements has joined the Knight Group as an MRCLID student to work with Gwen and Jodi Lindsay, further developing our models of gene transfer within S. aureus. Croeso!
+
+
 ### February 2021: Welcome to Tresco and good luck to Nichola!
 
 Tresco Emes has taken over Nichola's project on One Health evaluations of interventions to prevent antimicrobial resistance. Nichola is heading to a new exciting post at PHE with Julie Robotham. She is keeping an honorary contract at LSHTM so we hope to still see her often. 
