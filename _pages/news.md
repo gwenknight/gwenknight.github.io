@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+### November 2021: SEFASI 
+Very excited to announce that Nichola and Gwen have been awarded a JPIAMR grant: SEFASI will use quantitative methods to rank farm level interventions across AMR in collaboration with Dagim Belay in the University of Copenhagen, Michel Dione at ILRI and partners at the RVC. We will have a post to advertise in the new year for a mathematical modeller / economist - watch this space! 
+
+
 ### September 2021: Welcome to Alastair
 Alastair Clements has joined the Knight Group as an MRCLID student to work with Gwen and Jodi Lindsay, further developing our models of gene transfer within S. aureus. Croeso!
 
