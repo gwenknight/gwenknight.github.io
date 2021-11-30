@@ -7,19 +7,20 @@ title: "Grants"
 
 {% include base_path %}
 
+
+
 ## Current Grants
 
-### NIHR-UKRI COVID-19 funding award: 
+### SEFASI: 
 
-#### Title: Nosocomial transmission of SARS-CoV-2
+#### Title: Selecting Efficient Farm-level Antimicrobial Stewardship Interventions from a one health perspective (SEFASI)
 
-#### **Funder** [NIHR-UKRI](https://www.ukri.org/news/5-million-for-new-research-projects-investigating-how-coronavirus-spreads/)
+#### **Funder** [JPIAMR](https://www.jpiamr.eu/projects/sefasi/)
 
-This one year post will look at the spread of SARS-CoV-2 within UK hospitals. The aim is to determine the contribution of transmission in this setting to the overall epidemic in the first 6 months of 2020. 
+This project will analyse data from England, Denmark and Senegal to determine the cross-sectoral impact of antimicrobial usage interventions at the farm level. We will use statisticcal and mathematical modelling paired with economic anlaysis and expert elicitation to rank interventions. 
 
-This is a team effort. I am the PI but will work closely with the co-PIs of: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
+My role (PI) is to co-ordinate the project, with a Deputy PI in Nichola Naylor at the UKHSA. We will supervise a 3year research fellow position, ideally a mathematical modeller with economic experience or vice versa. We will be further developing the framework for cross-sectoral evaluation which Tresco is working on at the moment. 
 
-For more information about some of the results of this project you can see a talk by Jon and I [here](https://www.newton.ac.uk/seminar/20210906120013001/). 
 
 ### Pfizer / ISID joint award: 
 
@@ -32,6 +33,18 @@ This project will collect data on AMR prevalence in Zambia to pilot and support 
 My role (coPI) is to co-ordinate the project and develop the open-access empiric prescribing app in discussion with Zambian clinical collaborators to optimise support for empiric prescribing guideline formation by allowing for local resistance prevalence to be uploaded to the app. The main PI is Sombo Fwoloshi (University Teaching Hospital (UTH), Lusaka, Zambia). Our co-Is are at the University Teaching Hospital / Kanyama General Hospital (Uchizi Chola, Kaunda Yamba), Zambart (Sarah Lou Bailey) and Brighton Lusaka Health Link (Lusaka: A Kalungia.Brighton: J. Islam, A St. Clair Jones, S Lippett and FL Rees) and LSHTM ([Dr A. Aiken](https://www.lshtm.ac.uk/aboutus/people/aiken.alex)). 
 
 ## Past awards
+
+### NIHR-UKRI COVID-19 funding award: 
+
+#### Title: Nosocomial transmission of SARS-CoV-2
+
+#### **Funder** [NIHR-UKRI](https://www.ukri.org/news/5-million-for-new-research-projects-investigating-how-coronavirus-spreads/)
+
+This one year post will look at the spread of SARS-CoV-2 within UK hospitals. The aim is to determine the contribution of transmission in this setting to the overall epidemic in the first 6 months of 2020. 
+
+This is a team effort. I am the PI but will work closely with the co-PIs of: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
+
+For more information about some of the results of this project you can see a talk by Jon and I [here](https://www.newton.ac.uk/seminar/20210906120013001/). 
 
 ### MRC Skills Development Fellowship: 
 
