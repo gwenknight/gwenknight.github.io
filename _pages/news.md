@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 
+
+### November 2021: EPIDEMICS8
+Quentin gave a very nice presentation at EPIDEMICS. If you are interested in his work - you can see a talk of his here on youtube [https://www.youtube.com/watch?v=sde2Z_gKvLo]. He and Gwen also have a poster about bacterial diversity, and Gwen has a poster on hospital transmission of SARS-CoV-2. 
+
 ### November 2021: SEFASI 
 Very excited to announce that Nichola and Gwen have been awarded a JPIAMR grant: SEFASI will use quantitative methods to rank farm level interventions across AMR in collaboration with Dagim Belay in the University of Copenhagen, Michel Dione at ILRI and partners at the RVC. We will have a post to advertise in the new year for a mathematical modeller / economist - watch this space! 
 
