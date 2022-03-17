@@ -35,7 +35,7 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
     * Funding: MRC LID fellowship
     * Co-supervisors (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
-* Alastair Clements
+* [Alastair Clements](https://www.lshtm.ac.uk/aboutus/people/clements.alastair)
     * PhD Student (2021 - present) 
     * Project: Modelling antibiotic combination therapy and generalised transduction  
     * Funding: MRC LID fellowship
@@ -71,7 +71,6 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
 
 
 ## *Past Students*
-
 * Nichola Naylor
     * PhD Student (2015 - 2019), then LSHTM, then PHE
     * Project: Economic evaluations of the burden of *E. coli* infections in England
