@@ -4,7 +4,8 @@ title: "News"
 ---
 
 {% include base_path %}
-
+### December 2021: Co-Director of AMR Centre
+Gwen is now Co-Director of the [AMR Centre](https://www.lshtm.ac.uk/research/centres/amr) at LSHTM with [Prof. Kat Holt](https://www.lshtm.ac.uk/aboutus/people/holt.kat).
 
 ### November 2021: EPIDEMICS8
 Quentin gave a very nice presentation at EPIDEMICS. If you are interested in his work - you can see a talk of his here on youtube [https://www.youtube.com/watch?v=sde2Z_gKvLo]. He and Gwen also have a poster about bacterial diversity, and Gwen has a poster on hospital transmission of SARS-CoV-2. 
