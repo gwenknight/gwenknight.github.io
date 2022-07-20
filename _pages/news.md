@@ -8,10 +8,10 @@ title: "News"
 Congratulations to Alastiar for passing his upgrading - officially a PhD student once we've got some aims written more precisely as objectives! 
 
 ### July 2022: Quentin's viva
-Quentin passed his viva with minor corrections! Well Done Quentin! If you want to see a summary of his work you can check out some talks on [YouTube] channel(https://www.youtube.com/channel/UCamYP_kVMo-46s3tRiAH4nQ).
+Quentin passed his viva with minor corrections! Well Done Quentin! If you want to see a summary of his work you can check out some talks on [YouTube](https://www.youtube.com/channel/UCamYP_kVMo-46s3tRiAH4nQ).
 
 ### May 2022: MRC CDA! 
-Unbeliveably excited to announce that after a stresfful few months I have been awarded an MRC CDA fellowship to explore the relationship between AMR and age. This will start in September - I'll be recruiting an Research Fellow so please get in touch if you are an statistician / data scientist interested in AMR. 
+Unbeliveably excited to announce that after a stressful few months I have been awarded an MRC CDA fellowship to explore the relationship between AMR and age. This will start in September - I'll be recruiting an Research Fellow so please get in touch if you are an statistician / data scientist interested in AMR. 
 
 ### January 2022: Tresco and SEFASI
 Very happy that we have been able to continue working with Tresco on our new SEFASI grant. Watch this space for our website! 
