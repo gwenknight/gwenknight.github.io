@@ -10,6 +10,24 @@ redirect_from:
 {% include base_path %}
 
 
+### 2022 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+
+*Projects*:
+* Modelling the spread of antibiotic resistance variation by age with an MRC Career Development Award
+* Modelling the spread of SARS-CoV-2 in hospital environments 
+* Collaboration with Nichola Naylor and Tresco Emes on a One Health AMR project within SEFASI
+* Involved in modelling with multiple sub-projects on [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Valerie Baede and Wilem van Wamel at Erasmus, MC 
+* SHINY app development for empiric prescribing with Zambian collaborators
+* Supervision of Naomi Fuller's PhD on resistance mutations in M.tb
+* Supervision of Jake Wildfire's PhD on determinants of generalised transduction in S. aureus 
+* Supervision of Alastair Clements' PhD on the interaction between phage, antibiotics and generalised transduction in S. aureus 
+
+*Community*:
+* Co-organiser of the Distance Learning Modelling and the Dynamics of Infectious Diseases module
+* Co-organiser of the AMR Centre Short Course at LSHTM 
+* Co-Director of the AMR Centre
+
+
 ### 2021 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
 
 *Projects*:
