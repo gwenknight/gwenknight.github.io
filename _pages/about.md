@@ -10,20 +10,24 @@ redirect_from:
 
 I am an Associate Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen),
-funded to work on the spread of antimicrobial resistance by an [MRC
-Skills Development
-Fellowship](https://www.mrc.ac.uk/skills-careers/fellowships/).
+funded to work on the spread of antimicrobial resistance and how it varies by age by an [MRC
+Career Development
+Award](https://www.ukri.org/opportunity/career-development-award/).
 
 My [research](https://gwenknight.github.io/research/) uses
-mathematical modelling to better understand the spread of pathogens, with a particular focus on antibacterial resistance.
+mathematical modelling to better understand the spread of pathogens, with a particular focus on antibacterial resistance. I work mainly with the bacterial pathogens methicillin resistant *Staphylococcus aureus* (MRSA) and multi-drug resistant tuberculosis (MDR-TB).
 
-In antibiotic resistance, I an interested in capturing bacterial heterogeneity and its influence on AMR development. I work mainly with the pathogens methicillin resistant *Staphylococcus aureus* (MRSA) and multi-drug resistant tuberculosis (MDR-TB).
+My research is split into three key areas
 
-I am also intersted in *where* transmission and selection occurs. This has become increasingly important during the COVID-19 pandemic. I've worked on this exploring [settings of transmission of SARS-CoV-2](https://covid19settings.blogspot.com/p/about.html) by looking for open access reported clusters and am now focused on the contribution of the hospital environment to ongoing spread. 
+(1) Why does prevelance of resistance in infection vary by age? This focus of my CDA will involve data analaysis and modelling to understand why this simple demographic marker is not more routinely linked to AMR and what the drivers of variation might be. 
 
-I previously worked at the NIHR funded
+(2) What is the importance of bacterial heterogeneity on AMR development and how should we model it? In capturing heterogeneity I am interested in the rate at which resistance genes move, which for MRSA means understanding the interaction between bacteria and bacteriophage. Can we use phage as alternatives to antibiotics? how fast do they mispackage and hence transfer resistance genes? what affects this transfer rate and how much does this shuffling of genes contribute to AMR evolution in humans? 
+
+(3) Where does transmission and selection occur? Within AMR, this means I am interested in the One Health angle of AMR and whether we can use existing data to understand where to target interventions at the farm level. Currently I am thinking about whether use of [antibiotics in food-production really drives AMR](https://www.mdpi.com/2079-6382/11/1/66)?  Outside of AMR, this has meant a focus on [settings of transmission of SARS-CoV-2](https://covid19settings.blogspot.com/p/about.html) and the [contribution of the hospital environment to spread of SARS-CoV-2 in England](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07490-4). 
+
+I was previously a recipient of an MRC Skills Development Fellowship which I based at LSHTM. Before that I worked at the NIHR funded
 [HPRU](https://www.imperial.ac.uk/medicine/hpru-amr) for Healthcare
 Associated Infections and Antimicrobial Resistance at Imperial College
-London. Before that I was a postdoc with the [TB Modelling
+London. After my PhD I was a postdoc with the [TB Modelling
 group](http://tbmodelling.lshtm.ac.uk/) at LSHTM.
 
