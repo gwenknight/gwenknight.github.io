@@ -9,7 +9,7 @@ title: "Research"
 
 My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR), and now SARS-CoV-2. I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to informing the design of interventions for control. I work closely with experimental microbiologists as well as clinicians to get to the fundamentals of the dynamics of AbR. Using this experience of thinking about the sources of AbR, I have worked on trying to understand and quantify the spread of SARS-CoV-2, specifically in hospital settings.  
 
-### Why does prevelance of resistance in infection vary by age? 
+### (1) Why does prevelance of resistance in infection vary by age? 
 
 This is the focus of my MRC CDA. My three work packages here will involve 
 
@@ -19,21 +19,11 @@ This is the focus of my MRC CDA. My three work packages here will involve
  
 This project starts in September 2022 so watch this space... I will be recruiting a data scientist to work alongside me - advert soon. 
 
-### Why aren't all bacteria resistant to all antibiotics? Why is diversity maintained? 
+### (2) Why aren't all bacteria resistant to all antibiotics? Why is diversity maintained? 
 
 Resistance to nearly all antibiotics has been seen in nearly all bacteria and yet totally drug resistant bacteria are rare. Instead, we see highly diverse antibiograms in bacterial samples from patients (in MRSA) and a variety of mutational combinations conveying resistance (in *Mtb*). I want to understand what drives this maintenance of diversity and the rate of gene movement to determine better methods of control and ways to slow resistance emergenece. 
 
-### Heterogeneity in antimicrobial resistance
-
-Bacterial populations are highly heterogeneous, with variation in both
-underlying growth abilities and resistance levels (reflected by varying
-minimum inhibitory concentrations or MICs). However, this variation is
-often missing from mathematical models that aim to capture the dynamics
-of antimicrobial resistance (AMR) spread or interventions for AMR
-control. In this aspect of my research, I am working to develop a new modelling
-framework to better understand the underlying dynamics and to improve
-treatment design to prevent AMR emergence. 
-
+This variation is also often missing from mathematical models that aim to capture the dynamics of AbR spread or interventions for AbR control - I want to understand the importance of this and use these new modelling frameworks to better understand the underlying dynamics and to improve treatment design to prevent AbR emergence. 
 
 My work in this area has mainly focused on *S. aureus* where most resistance genes are moved horizontally between bacteria by bacteriophage. These super cool bacterial viruses not only need to be investigated as a potential future therapy but because they likely drive resistance evolution in many bacteria. To get to the heart of this problem I work with [Jodi Lindsay's lab](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) to perform microbiology experiments allowing us to get insight into bacteria, phage and antibiotic interactions. 
 
@@ -50,7 +40,7 @@ I have also work on resistance diversity in *M. tuberculosis* with a focus on th
 
 #### Collaborators: [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay), [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), 
 
-### Where does transmission and selection of AbR occur? 
+### (3) Where does transmission and selection of AbR occur? 
 
 A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Senegal) and then their contribution to the economic burden. 
 
@@ -64,7 +54,7 @@ In particular, I am PI of the SEFASI consortium which has funding to explore the
 #### Collaborators: [Nichola Naylor, UKHSA/LSHTM](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola), [Michel Dione, ILRI](https://www.ilri.org/people/michel-mainack-dione), [Dagim Belay, Uni. of Copenhagen](https://ifro.ku.dk/english/staff/?pure=en/persons/419281), [Javier Guitian](https://www.rvc.ac.uk/about/our-people/javier-guitian). 
 
 
-### What can we do about AbR? 
+### (4) What can we do about AbR? 
 
 I believe mathematical modelling has a key place in informing and guiding interventions for antibiotic reistance and infection control in hospitals. By developing models, fit to hospital or ecological data, new interventions as well as hypotheses about resistance development can be developed. 
 
