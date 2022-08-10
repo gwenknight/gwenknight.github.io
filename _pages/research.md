@@ -7,71 +7,21 @@ title: "Research"
 
 ## Research themes
 
-My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR), and now SARS-CoV-2. I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to informing the design of interventions for control. Using this experience of thinking about the sources of AbR, I am now trying to help with the understanding of the spread of SARS-CoV-2 transmission and similarly, interventions for control. 
+My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR), and now SARS-CoV-2. I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to informing the design of interventions for control. I work closely with experimental microbiologists as well as clinicians to get to the fundamentals of the dynamics of AbR. Using this experience of thinking about the sources of AbR, I have worked on trying to understand and quantify the spread of SARS-CoV-2, specifically in hospital settings.  
 
-### COVID-19
+### Why does prevelance of resistance in infection vary by age? 
 
-The COVID-19 pandemic has fundamentally affected the way we do research, and for many mathematical modellers of infectious disease, the questions we now need to ask. My research on COVID-19 has taken two main paths: one was to provide support for UCLH to calculate bed occupancy during the London outbreak in the Spring of 2020. This has led to research into the length of stay of patients with COVID-19. 
+This is the focus of my MRC CDA. My three work packages here will involve 
 
-Secondly, I've been looking into the spread of SARS-CoV-2 - which settings are associated with transmission? This has led me to focus now on hospital environments. We now have a grant to look specifically at heterogeneity between Trusts and interventions to control. 
+1. *mapping* trends in data from global open access and individual patient UKHSA datasets
+2. *modelling* to understand the underlying drivers 
+3. *intervention design* using the modelling and understanding to support better empiric therapy design.
+ 
+This project starts in September 2022 so watch this space... I will be recruiting a data scientist to work alongside me - advert soon. 
 
-### *Selected publications*
-[Settings of transmission](https://wellcomeopenresearch.org/articles/5-83/v2): We set up a peer supported database of clusters of SARS-CoV-2 infections linked to transmission in specific settings. This database collection started [here](https://bit.ly/3ar39ky) and is now continuing at [our website](covid19settings.com). Please volunteer to help us find clusters if you can! 
+### Why aren't all bacteria resistant to all antibiotics? Why is diversity maintained? 
 
-*Leclerc QJ, Fuller NM, Knight LE, CMMID Working Group, Funk S, **Knight GM**. What settings have been linked to SARS-CoV-2 transmission clusters? [version 2; peer review: 2 approved]. Wellcome Open Res 2020, 5:83 (https://doi.org/10.12688/wellcomeopenres.15889.2)*
-
-#### Collaborators on hospital transmission work: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham (PHE)](https://www.imperial.ac.uk/people/j.robotham), [Jon Read (Lancaster)](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper (Oxford)](https://www.ndm.ox.ac.uk/team/ben-cooper)
-
-### Fitness costs to resistance
-
-The acquisition of a resistance phenotype often comes with a "fitness
-cost" to the host. Determining the size of this "cost" and its impact on
-the natural history of an infection is key to developing accurate
-mathematical models of infectious disease spread. My research uses both experimental methods, such as those utilised in my PhD for the bacterium *Staphylococcus aureus*, and mathematical modelling tools for *in situ* data to estimate fitness costs. 
-
-### *Selected publications*
-[Fitness costs in TB](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2018.0025): We estimated the fitness costs to multi-drug resistance carriage in *Mycobacterium tuberculosis* from detailed *in situ* data in Peru and found them to be substantial.
-
-*The relative fitness of drug-resistant Mycobacterium tuberculosis: a modelling study of household transmission in Peru.
-**G. M. Knight**, M. Zimic, S. Funk, R. H. Gilman, J. S. Friedland, L. Grandjean. Journal of the Royal Society, Interface 15 (2018).*
-
-[Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes.
-
-*Shift in dominant hospital-associated methicillin-resistant Staphylococcus aureus (HA-MRSA) clones over time. **G. M. Knight**, E. L. Budd, L. Whitney, A. Thornley, H. Al-Ghusein, T. Planche, J. A. Lindsay. The Journal of Antimicrobial Chemotherapy 67 (2012), 2514–2522.*
-
-#### Collaborators: [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
-
-### Tackling antibiotic resistance in UK hospitals
-
-I believe mathematical modelling has a key place in informing and guiding interventions for antibiotic reistance and infection control in hospitals. By developing models, fit to hospital data, new interventions as well as hypotheses about resistance development can be developed. I work closely with a number of UK hospitals to align my research questions with clinical need and parametrise them as far as possible with existing clinical data. Currently, I am working on SNP cut-offs for MRSA isolates for genome screening in hospitals and transmission differentials between hospital wards. 
-
-Carbapenem resistance is a growing problem across the UK, with increasing numbers of proportions of infections being reported as
-resistant to this last line antibiotic. My MRC fellowship aims to explore the reasons for the variation in carbapenem resistance across
-England and to use the results to target interventions for control.
-
-### *Selected publications*
-[Screening for carbapenem resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094916/). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018. 
-
-*Fast and expensive (PCR) or cheap and slow (culture)? A mathematical modelling study to explore screening for carbapenem
-resistance in UK hospitals. **G. M. Knight**, E. Dyakova, S. Mookerjee, F. Davies, E. T. Brannigan, J. A. Otter, A. H. Holmes. BMC medicine 16 (2018), 141*
-
-#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), Elie Dyakova, [Jon Otter](https://www.imperial.ac.uk/people/j.otter) and Siddharth Mookerjee at Imperial College Healthcare NHS Trust.  
-
-
-### Where does antibiotic resistance come from? 
-
-A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Niger) and then their contribution to the economic burden. 
-
-### *Selected publications*
-[Opinion piece on this issue](https://www.ncbi.nlm.nih.gov/pubmed/29020246): This piece was written with collaborators from the HPRU at ICL on what data and modelling tools we need. 
-
-*Addressing the unknowns of antimicrobial resistance: quantifying and mapping the drivers of burden. **G. M. Knight**, C. Costelloe, K. A. Murray, J. V. Robotham, R. Atun, A. H. Holmes. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America (2017).*
-
-[Modelling acquisition](https://www.ncbi.nlm.nih.gov/pubmed/30134939): Modelling work to assess if community or hospital antibioitc use has a bigger impact in the UK. 
-
-*Quantifying where human acquisition of antibiotic resistance occurs: a mathematical modelling study. **G. M. Knight**, C. Costelloe, S. R. Deeny, L. S. P. Moore, S. Hopkins, A. P. Johnson, J. V. Robotham, A. H. Holmes. BMC medicine 16 (2018), 137.*
-
-#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
+Resistance to nearly all antibiotics has been seen in nearly all bacteria and yet totally drug resistant bacteria are rare. Instead, we see highly diverse antibiograms in bacterial samples from patients (in MRSA) and a variety of mutational combinations conveying resistance (in *Mtb*). I want to understand what drives this maintenance of diversity and the rate of gene movement to determine better methods of control and ways to slow resistance emergenece. 
 
 ### Heterogeneity in antimicrobial resistance
 
@@ -84,23 +34,70 @@ control. In this aspect of my research, I am working to develop a new modelling
 framework to better understand the underlying dynamics and to improve
 treatment design to prevent AMR emergence. 
 
+
+My work in this area has mainly focused on *S. aureus* where most resistance genes are moved horizontally between bacteria by bacteriophage. These super cool bacterial viruses not only need to be investigated as a potential future therapy but because they likely drive resistance evolution in many bacteria. To get to the heart of this problem I work with [Jodi Lindsay's lab](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) to perform microbiology experiments allowing us to get insight into bacteria, phage and antibiotic interactions. 
+
+Much of my research on bacteriophage has been led by my PhD student [Quentin Leclerc](https://scholar.google.com/citations?user=oSDPjWIAAAAJ&hl=en). He has developed a model of phage and bacterial interactions to measure the rate of generalised transduction which allows us to capture the dynamics of both phage and bacteria populations. A key to this was linking phage burst size to bacterial growth and a saturating function for the phage/bacterial interaction. From this we can start to understand at what rate bacterial populations maintain diversity and hence the patterns we seen in the clinic. 
+
+I have also work on resistance diversity in *M. tuberculosis* with a focus on the importance of fitness costs to resistance - how do predictions of resistance burden vary when models include the true variation in fitness between resistant strains? Current research is exploring sub-MIC resistance diversity. 
+
 ### *Selected publications*
+[Bacterial-phage model](https://journals.asm.org/doi/full/10.1128/msystems.00135-22): In this paper we lay out our experimental work with *S. aureus* exploring the rate of generalised transduction and fit multiple model structures to it to determine the likely underlying dynamics and rates. 
+
 [Variation in fitness in *M.tb*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/): We showed the importance of variation in fitness to the future levels of MDR-TB. 
 
-*The distribution of fitness costs of resistance-conferring mutations is a key determinant for the future burden of drugresistant
-tuberculosis: a model-based analysis. **G. M. Knight**, C. Colijn, S. Shrestha, M. Fofana, F. Cobelens, R. G. White, D. W. Dowdy, T. Cohen. Clinical Infectious Diseases 61.suppl 3 (2015), S147–S154.*
+[Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes.
 
-#### Collaborators: [Dan Andersson and group](https://katalog.uu.se/profile/?id=XX3213) and [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay)
+#### Collaborators: [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay), [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), 
 
-### TB Vaccines
+### Where does transmission and selection of AbR occur? 
 
-I also have a long-term interest in the development and impact of new TB vaccines for TB control, continued from my postdoc work at LSHTM. This has two strands. Firstly, using population models to assess the impact of potential new vaccines on TB incidence and secondly, the development of a new framework for vaccine dosing in general that was stimulated by initial quantitative analysis of TB vaccine dosing. The latter will be, I believe, highly important for vaccine design in the future as we move towards something like the quantitative PK/PD framework employed by drug dosing. 
+A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Senegal) and then their contribution to the economic burden. 
+
+In particular, I am PI of the SEFASI consortium which has funding to explore the impact of interventions at the farm level to reduce antibiotic prescribing in England, Senegal and Denmark. 
 
 ### *Selected publications*
-[Impact of adult vs. infant TB vaccination strategies](https://www.ncbi.nlm.nih.gov/pubmed/25288770): This work provided evidence for several of the key TB vaccine organisations to move their portfolio focus to infant rather than adult vaccination strategies. 
+[Quantifying where AbR comes from](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1121-8): In this work we used modelling to ask whether hospitals or community antibiotic prescribing was really the source of most selection of AbR finding that due to the large volumnes in primary care the community was very much the place to target stewardship interventions. 
 
-*Impact and cost-effectiveness of new tuberculosis vaccines in low-and middle-income countries. **G. M. Knight**, U. K. Griffiths, T. Sumner, Y. V. Laurence, A. Gheorghe, A. Vassall, P. Glaziou, R. G. White. Proceedings of the National Academy of Sciences 111.43 (2014), 15520–15525.*
+[How can you quantify the impact of antibiotic use in food-producing animals on AbR infections in humans?](https://www.mdpi.com/2079-6382/11/1/66): In this work we argue for better data analysis to get to the heart of this important interaction.
 
-[Overview piece on our new dosing framework](https://www.ncbi.nlm.nih.gov/pubmed/30639297): This work outlines our thoughts on how to determine vaccine dose in a structured manner and references Sophie's TB work in this field. 
+#### Collaborators: [Nichola Naylor, UKHSA/LSHTM](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola), [Michel Dione, ILRI](https://www.ilri.org/people/michel-mainack-dione), [Dagim Belay, Uni. of Copenhagen](https://ifro.ku.dk/english/staff/?pure=en/persons/419281), [Javier Guitian](https://www.rvc.ac.uk/about/our-people/javier-guitian). 
 
-*Dose finding for new vaccines: The role for immunostimulation/immunodynamic modelling. S. J. Rhodes, **G. M. Knight**, D. E. Kirschner, R. G. White, T. G. Evans. Journal of theoretical biology 465 (2019), 51–55.*
+
+### What can we do about AbR? 
+
+I believe mathematical modelling has a key place in informing and guiding interventions for antibiotic reistance and infection control in hospitals. By developing models, fit to hospital or ecological data, new interventions as well as hypotheses about resistance development can be developed. 
+
+I work closely with a number of UK hospitals to align my research questions with clinical need and parametrise them as far as possible with existing clinical data. For example, I have worked on SNP [cut-offs for MRSA isolates](https://www.sciencedirect.com/science/article/pii/S266652472030149X) for genome screening in hospitals and transmission differentials between hospital wards. 
+
+I also use modelling to understand the burden of AbR and its driver, in order to determine where interventions should be targetted.  
+
+More practically, I use modelling to support data analysis to better inform empiric prescribing. I led the team that [won the first Wellcome Data ReUse prize](https://www.lshtm.ac.uk/research/centres/amr/news/84291/wellcome-data-re-use-prize-amr-surveillance) thinking about this problem using the ATLAS dataset from Pfizer. Building on this, I am now working with collaborators in Zambia to understand local data and hence develop empiric prescribing guidelines. 
+
+### *Selected publications*
+
+[How many people are latently infected with MDR-Mtb?](https://www.sciencedirect.com/science/article/pii/S147330991930307X): In this work we combined trend analysis with a cohort model to determine if there was a large burden of latent infection with MDR-resistant *Mtb*. We found that 3 in every 1000 individuals globally was likely infected with MDR-Mtb in 2014. This needs to be targetted to prevent active disease cases from reactivation. 
+
+[Screening for carbapenem resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094916/). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018.
+
+#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), [Jon Otter](https://www.imperial.ac.uk/people/j.otter), [Pete Dodd](https://www.sheffield.ac.uk/scharr/people/staff/pete-dodd), [Rein Houben](https://www.lshtm.ac.uk/aboutus/people/houben.rein), Francesc Coll (https://www.lshtm.ac.uk/aboutus/people/coll.francesc), [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola). 
+
+
+### COVID-19
+
+The COVID-19 pandemic has fundamentally affected the way we do research, and for many mathematical modellers of infectious disease, the questions we now need to ask. My research on COVID-19 initially focused on praticalities: one was to provide support for UCLH to calculate bed occupancy during the London outbreak in the Spring of 2020. This has led to research into the length of stay of patients with COVID-19. Secondly, we looked into the spread of SARS-CoV-2 - which settings are associated with transmission? 
+
+Since the summer of 2020 I have been working with the nosocomial sub-group of SPI-M led by [Julie Robotham](https://www.imperial.ac.uk/people/j.robotham) to understand the size and contribution of hospital settings to SARS-CoV-2 spread. 
+
+I have also worked to understand how COVID-19 will affect AbR spread with colleague within the [AMR Centre at LSHTM](https://www.lshtm.ac.uk/research/centres/amr). Going forward this is something that needs further work to understand how the data on and transmission of AbR was affected - I think there will be something to learn but it's not clear yet to what extent the data on AbR levels can be trusted. 
+
+
+### *Selected publications*
+[Settings of transmission](https://wellcomeopenresearch.org/articles/5-83/v2): We set up a peer supported database of clusters of SARS-CoV-2 infections linked to transmission in specific settings. 
+
+[Contribution of hospitals to SARS-CoV-2 spread in England in the first half of 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07490-4): We found that approximately a fifth of those with identified COVID-19 in hospitals were likely infected in hospital but that hospitals contritbuted little to the wider epidemic.
+
+[The interaction of COVID-19 and AMR](https://elifesciences.org/articles/64139): We proposed a structured way of considering this interaction with how COVID-19 affects AMR emergenece, transmission and burden. 
+
+
+#### Collaborators on hospital transmission work: [Seb Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian), [Julie Robotham (UKHSA)](https://www.imperial.ac.uk/people/j.robotham), [Jon Read (Lancaster)](https://www.lancaster.ac.uk/people-profiles/jonathan-read), [Ben Cooper (Oxford)](https://www.ndm.ox.ac.uk/team/ben-cooper)
