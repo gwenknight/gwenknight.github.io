@@ -12,10 +12,10 @@ I am an Associate Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen) and co-Director of the [LSHTM AMR Centre](https://www.lshtm.ac.uk/research/centres/amr). I am currently funded by an [MRC
 Career Development
 Award](https://www.ukri.org/opportunity/career-development-award/)
-to work on the spread of antimicrobial resistance and how it varies by age.
+to work on the spread of antimicrobial resistance (AMR) and how it varies by age.
 
 My [research](https://gwenknight.github.io/research/) uses
-mathematical modelling to better understand the spread of pathogens, with a particular focus on antibacterial resistance. I work mainly with the bacterial pathogens methicillin resistant *Staphylococcus aureus* (MRSA) and multi-drug resistant tuberculosis (MDR-TB).
+mathematical modelling to better understand the spread of pathogens, with a particular focus on antibacterial resistance (AbR). I work mainly with the bacterial pathogens methicillin resistant *Staphylococcus aureus* (MRSA) and multi-drug resistant tuberculosis (MDR-TB).
 
 My research is split into four key themes
 
