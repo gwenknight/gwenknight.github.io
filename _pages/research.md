@@ -17,7 +17,7 @@ This is the focus of my MRC CDA. My three work packages here will involve
 2. *modelling* to understand the underlying drivers 
 3. *intervention design* using the modelling and understanding to support better empiric therapy design.
  
-This project starts in September 2022 so watch this space... I will be recruiting a data scientist to work alongside me - advert soon. 
+This project starts in September 2022 so watch this space... I am recruiting a data scientist to work alongside me - advert [here](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-2022-34). Deadline 30th September. 
 
 ### (2) Why aren't all bacteria resistant to all antibiotics? Why is diversity maintained? 
 
@@ -38,7 +38,7 @@ I have also work on resistance diversity in *M. tuberculosis* with a focus on th
 
 [Differences in fitness between MRSA clones](https://www.ncbi.nlm.nih.gov/pubmed/22761331): Using hospital strains of *S. aureus* we explored what may have caused a decline in MRSA incidence at St. George's University NHS Trust and found a fitness differential between the key clonal complexes.
 
-#### Collaborators: [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay), [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi), [Jon Friedland](http://www.imperial.ac.uk/people/j.friedland), 
+#### Collaborators: [Jodi Lindsay and group](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay), [Louis Grandjean](https://www.researchgate.net/profile/Louis_Grandjean2-UCL), [Mirko Zimic and group](http://www.upch.edu.pe/vrinve/investigacion/lbbm-gbi) 
 
 ### (3) Where does transmission and selection of AbR occur? 
 
@@ -70,7 +70,7 @@ More practically, I use modelling to support data analysis to better inform empi
 
 [Screening for carbapenem resistance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094916/). This work explores whether screening for patients carrying carbapenem resistant Enterobacteriaceae should be done using a direct PCR test or a culture and then PCR combination. This was presented at ECCMID 2018.
 
-#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), [Jon Otter](https://www.imperial.ac.uk/people/j.otter), [Pete Dodd](https://www.sheffield.ac.uk/scharr/people/staff/pete-dodd), [Rein Houben](https://www.lshtm.ac.uk/aboutus/people/houben.rein), Francesc Coll (https://www.lshtm.ac.uk/aboutus/people/coll.francesc), [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola). 
+#### Collaborators: [Alison Holmes](https://www.imperial.ac.uk/people/alison.holmes) and the [HPRU for HCAI and AMR](https://www.imperial.ac.uk/medicine/hpru-amr), [Jon Otter](https://www.imperial.ac.uk/people/j.otter), [Pete Dodd](https://www.sheffield.ac.uk/scharr/people/staff/pete-dodd), [Rein Houben](https://www.lshtm.ac.uk/aboutus/people/houben.rein), [Francesc Coll](https://www.lshtm.ac.uk/aboutus/people/coll.francesc), [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola). 
 
 
 ### COVID-19
