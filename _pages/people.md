@@ -5,25 +5,24 @@ title: "People"
 
 {% include base_path %}
 
-COVID-19 has made meeting up regularly difficult and working from home is isolating. So a group of us meet every other week for FortKnight where we have a two presentations: one of us presents a piece of their own work, one of us presents an interesting report / presentation. Check out my Twitter feed for examples of our interesting discussions. We are currently 6 people in "KnightGroup". 
+COVID-19 has made meeting up regularly difficult and working from home is isolating. So a group of us meet every other week for FortKnight where we have a two presentations: one of us presents a piece of their own work, one of us presents an interesting report / presentation. Check out my Twitter feed for examples of our interesting discussions. Currently 8 people meet regularly as part of "KnightGroup". 
 
 ## Research fellows & postdocs
 
-* [Tresco Emes](https://www.linkedin.com/in/david-emes-%E6%98%93%E5%B0%8F%E9%BE%99-787873150/?originalSubdomain=uk)
+* [Eve (Tresco) Emes]([https://www.linkedin.com/in/david-emes-%E6%98%93%E5%B0%8F%E9%BE%99-787873150/?originalSubdomain=uk](https://www.lshtm.ac.uk/aboutus/people/emes.eve))
     * Research Fellow (2021 - present), based at LSHTM 
-    * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on Viet Nam
-    * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
-    * Collaborators: [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
+    * Project: SEFASI building on work with A4NH. Economic modelling to evaluate the impact of interventions to reduce antibiotic usage in food-producing animals. 
+    * Funding: Now SEFASI, but initially a collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research with [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
     
 ## PhD Students
-
-* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
-    * PhD Student (2018 - present) 
-    * Project: Modelling to understand horizontal gene transfer: the example of transduction in Methillin Resistant S. aureus (MRSA) 
-    * Funding: MRC LID fellowship
-    * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
     
- * [Naomi Fuller](https://www.lshtm.ac.uk/aboutus/people/fuller.naomi)
+ * Max Wallat
+    * PhD Student (2022 - present) 
+    * Project: MRSA gene transfer
+    * Funding: MRC LID fellowship
+    * Co-supervisors: (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+
+* [Naomi Fuller](https://www.lshtm.ac.uk/aboutus/people/fuller.naomi)
     * PhD Student (2020 - present) 
     * Project: Resistance evolution in the presence of combination therapy (focus on TB)
     * Funding: MRC LID fellowship
@@ -71,6 +70,12 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
 
 
 ## *Past Students*
+* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
+    * PhD Student (2018 - 2022) 
+    * Project: Modelling to understand horizontal gene transfer: the example of transduction in Methillin Resistant S. aureus (MRSA) 
+    * Funding: MRC LID fellowship
+    * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+
 * Nichola Naylor
     * PhD Student (2015 - 2019), then LSHTM, then PHE
     * Project: Economic evaluations of the burden of *E. coli* infections in England
