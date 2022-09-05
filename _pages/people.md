@@ -53,7 +53,7 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
     * Research Fellow (2018 - 2020), based at Erasmus MC, Univ. Medical Center Rotterdam, Netherlands
     * Project: Investigating the underlying mechanisms of MRSA clonal dynamics
     * Funding: [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/)
-    * Collaborators: [Dr. Magreet Vos (PI)](http://www.safety-and-security.nl/people/profdr-margreet-vos), [Sake de Vlas](https://scholar.google.com/citations?user=MeqoQ4QAAAAJ&hl=en) (Erasmus MC),  and [M.E.E. (Mirjam) Kretzschmar](https://www.umcutrecht.nl/en/Research/Researchers/Kretzschmar-Mirjam-MEE) (UMC Utrecht) 
+    * Collaborators: [Magreet Vos (PI)](http://www.safety-and-security.nl/people/profdr-margreet-vos), [Sake de Vlas](https://scholar.google.com/citations?user=MeqoQ4QAAAAJ&hl=en) (Erasmus MC),  and [M.E.E. (Mirjam) Kretzschmar](https://www.umcutrecht.nl/en/Research/Researchers/Kretzschmar-Mirjam-MEE) (UMC Utrecht) 
     
  * [Andrea Weisse](https://www.imperial.ac.uk/people/andrea.weisse)
     * Research Associate (2018 - 2020), based at Imperial College London
