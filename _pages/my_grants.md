@@ -18,7 +18,7 @@ title: "Grants"
 #### **Funder** [MRC](https://www.ukri.org/opportunity/career-development-award/)
 
 This project will use data analysis and mathematical modelling to explore patterns in antimicrobial resistance prevalence by age. 
-My collaborators include [Julie Robotham (UKHSA)](https://www.imperial.ac.uk/people/j.robotham), [Ben Cooper, Uni. of Oxford](https://www.ndm.ox.ac.uk/team/ben-cooper), [Benn Sartorious, GRAM, Uni. of Oxford](https://www.tropicalmedicine.ox.ac.uk/team/benn-sartorius), [Rene Niehus, Harvard](https://ccdd.hsph.harvard.edu/people/rene-niehus/) and [Catrin Moore, St George's](https://www.researchgate.net/lab/Catrin-E-Moores-Group-Catrin-E-Moore). 
+My collaborators include [Julie Robotham (UKHSA)](https://www.imperial.ac.uk/people/j.robotham), [Ben Cooper, Uni. of Oxford](https://www.ndm.ox.ac.uk/team/ben-cooper), [Benn Sartorious (GRAM, Uni. of Oxford)](https://www.tropicalmedicine.ox.ac.uk/team/benn-sartorius), [Rene Niehus (Harvard)](https://ccdd.hsph.harvard.edu/people/rene-niehus/) and [Catrin Moore (SGUL)](https://www.researchgate.net/lab/Catrin-E-Moores-Group-Catrin-E-Moore). 
 
 
 ### SEFASI: 
@@ -29,7 +29,7 @@ My collaborators include [Julie Robotham (UKHSA)](https://www.imperial.ac.uk/peo
 
 This project will analyse data from England, Denmark and Senegal to determine the cross-sectoral impact of antimicrobial usage interventions at the farm level. We will use statisticcal and mathematical modelling paired with economic anlaysis and expert elicitation to rank interventions. 
 
-My role (PI) is to co-ordinate the project, with a Deputy PI in Nichola Naylor at the UKHSA. We supervise a research fellow [Eve Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve) to provide country level data analysis and to further develope the framework for cross-sectoral evaluation which is currently under review (pre-print [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4104382)). Our collaborators are [Dagim Belay (Uni. of Copenhagen](https://ifro.ku.dk/english/staff/?pure=en/persons/419281), [Michel Dione (ILRI)](https://www.ilri.org/people/michel-mainack-dione) and [Javier Guitian(RVC)](https://www.rvc.ac.uk/about/our-people/javier-guitian). 
+My role (PI) is to co-ordinate the project, with a Deputy PI in Nichola Naylor at the UKHSA. We supervise a research fellow [Eve Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve) to provide country level data analysis and to further develope the framework for cross-sectoral evaluation which is currently under review (pre-print [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4104382)). Our collaborators are [Dagim Belay (Uni. of Copenhagen)](https://ifro.ku.dk/english/staff/?pure=en/persons/419281), [Michel Dione (ILRI)](https://www.ilri.org/people/michel-mainack-dione) and [Javier Guitian(RVC)](https://www.rvc.ac.uk/about/our-people/javier-guitian). 
 
 
 ### Pfizer / ISID joint award: 
