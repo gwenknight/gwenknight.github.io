@@ -15,30 +15,30 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
     * Funding: Now SEFASI, but initially a collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research with [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
     
 ## PhD Students
-    
- * Max Wallat
-    * PhD Student (2022 - present) 
-    * Project: MRSA gene transfer
-    * Funding: MRC LID fellowship
-    * Co-supervisors: (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
-
+ 
 * [Naomi Fuller](https://www.lshtm.ac.uk/aboutus/people/fuller.naomi)
     * PhD Student (2020 - present) 
     * Project: Resistance evolution in the presence of combination therapy (focus on TB)
-    * Funding: MRC LID fellowship
+    * Funding: LiDO fellowship
     * Co-supervisors: [Prof. Tim McHugh](https://www.ucl.ac.uk/tb/people/professor-tim-mchugh) (UCL)
 
 * [Jacob Wildfire](https://www.lshtm.ac.uk/aboutus/people/wildfire.jacob)
     * PhD Student (2020 - present) 
     * Project: Barriers to the spread of antimicrobial resistance by horizontal gene transfer (focus on MRSA)
-    * Funding: MRC LID fellowship
+    * Funding: MRCLID fellowship
     * Co-supervisors (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
 * [Alastair Clements](https://www.lshtm.ac.uk/aboutus/people/clements.alastair)
     * PhD Student (2021 - present) 
     * Project: Modelling antibiotic combination therapy and generalised transduction  
-    * Funding: MRC LID fellowship
+    * Funding: MRCLID fellowship
     * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+
+ * Max Wallat
+    * PhD Student (2022 - present) 
+    * Project: MRSA gene transfer
+    * Funding: MRCLID fellowship
+    * Co-supervisors: (primary): [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
 ## *Past postdocs*
 
@@ -63,25 +63,25 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
 
 ## *Past research assistants*
 * Yalda Jafari 
-    * Research Assistant (2020-2021), based at LSHTM 
+    * Research Assistant (2020-2021), based at LSHTM, now doing a PhD at Oxford.
     * Project: Nosocomial transmission of SARS-CoV-2 in the UK 
     * Funding: NIHR UKRI
     * Collaborators: [Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) and [Stephanie Evans](https://www.linkedin.com/in/stephanie-evans-98126a5a/?originalSubdomain=uk) at PHE, [Ben Cooper](https://www.ndm.ox.ac.uk/team/ben-cooper) at Oxford University and [Jon Read](https://www.lancaster.ac.uk/people-profiles/jonathan-read) at Lancaster University. 
 
 
 ## *Past Students*
-* [Quentin Leclerc](https://qleclerc.netlify.com/#about)
+* [Quentin Leclerc](https://qleclerc.netlify.com/#about), now at Institut Pasteur. 
     * PhD Student (2018 - 2022) 
     * Project: Modelling to understand horizontal gene transfer: the example of transduction in Methillin Resistant S. aureus (MRSA) 
     * Funding: MRC LID fellowship
     * Co-supervisors: [Prof. Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
 * Nichola Naylor
-    * PhD Student (2015 - 2019), then LSHTM, then PHE
+    * PhD Student (2015 - 2019), first at LSHTM (see above), then UKHSA.
     * Project: Economic evaluations of the burden of *E. coli* infections in England
     * Co-supervisors: [Dr. Julie Robotham](http://www.imperial.ac.uk/people/j.robotham) (PHE & Imperial College London) and [Prof. Rifat Atun](https://www.hsph.harvard.edu/rifat-atun/) (Harvard School of Public Health) 
 
 * Sophie Rhodes
-    * PhD Student (2014 - 2017), currently continuing her PhD work at [LSHTM](https://www.lshtm.ac.uk/aboutus/people/rhodes.sophie). 
+    * PhD Student (2014 - 2017), continued her PhD work at [LSHTM](https://www.lshtm.ac.uk/aboutus/people/rhodes.sophie) and now in Pharma.
     * Project: Using mathematical modelling to improve vaccine dosing for tuberculosis disease
     * Co-supervisors: [Prof. Richard White](https://www.lshtm.ac.uk/aboutus/people/white.richard) (LSHTM) and [Dr. Helen Fletcher](https://www.lshtm.ac.uk/aboutus/people/fletcher.helen) (LSHTM) 
