@@ -9,7 +9,7 @@ COVID-19 has made meeting up regularly difficult and working from home is isolat
 
 ## Research fellows & postdocs
 
-* [Eve (Tresco) Emes]([https://www.linkedin.com/in/david-emes-%E6%98%93%E5%B0%8F%E9%BE%99-787873150/?originalSubdomain=uk](https://www.lshtm.ac.uk/aboutus/people/emes.eve))
+* [Eve (Tresco) Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve)
     * Research Fellow (2021 - present), based at LSHTM 
     * Project: SEFASI building on work with A4NH. Economic modelling to evaluate the impact of interventions to reduce antibiotic usage in food-producing animals. 
     * Funding: Now SEFASI, but initially a collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research with [Prof. Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Dr. Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
