@@ -4,6 +4,9 @@ title: "News"
 ---
 
 {% include base_path %}
+### September 2022 MRC CDA starts
+Excited to start data gathering and analysis on my new project. Advert [open](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-2022-34) until 30th September for data scientist to join the KnightGroup. Ideally looking for a statistician to complement the modelling proposed with experience in electronic health records. 
+
 ### July 2022: Alastair upgrading
 Congratulations to Alastiar for passing his upgrading - officially a PhD student once we've got some aims written more precisely as objectives! 
 
