@@ -5,6 +5,10 @@ title: "News"
 
 {% include base_path %}
 ### September 2022 MRC CDA starts
+Welcome to Max Wallat! Max has just started his MRCLID PhD, supervised by Jodi Lindsay, myself and Kat Holt. We're looking forward to bringing a more bioinformatics angle to our research on transduction based transfer of AMR within clinical isolates. 
+
+
+### September 2022 MRC CDA starts
 Excited to start data gathering and analysis on my new project. Advert [open](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-2022-34) until 30th September for data scientist to join the KnightGroup. Ideally looking for a statistician to complement the modelling proposed with experience in electronic health records. 
 
 ### July 2022: Alastair upgrading
