@@ -27,7 +27,7 @@ My collaborators include [Julie Robotham (UKHSA)](https://www.imperial.ac.uk/peo
 
 #### **Funder** [JPIAMR](https://www.jpiamr.eu/projects/sefasi/)
 
-This project will analyse data from England, Denmark and Senegal to determine the cross-sectoral impact of antimicrobial usage interventions at the farm level. We will use statisticcal and mathematical modelling paired with economic anlaysis and expert elicitation to rank interventions. 
+This project[https://www.lshtm.ac.uk/research/centres-projects-groups/sefasi] will analyse data from England, Denmark and Senegal to determine the cross-sectoral impact of antimicrobial usage interventions at the farm level. We will use statistical and mathematical modelling paired with economic anlaysis and expert elicitation to rank interventions. 
 
 My role (PI) is to co-ordinate the project, with a Deputy PI in Nichola Naylor at the UKHSA. We supervise a research fellow [Eve Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve) to provide country level data analysis and to further develope the framework for cross-sectoral evaluation which is currently under review (pre-print [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4104382)). Our collaborators are [Dagim Belay (Uni. of Copenhagen)](https://ifro.ku.dk/english/staff/?pure=en/persons/419281), [Michel Dione (ILRI)](https://www.ilri.org/people/michel-mainack-dione) and [Javier Guitian(RVC)](https://www.rvc.ac.uk/about/our-people/javier-guitian). 
 
