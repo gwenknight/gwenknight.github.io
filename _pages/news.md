@@ -4,15 +4,17 @@ title: "News"
 ---
 
 {% include base_path %}
-### September 2022 MRC CDA starts
-Welcome to Max Wallat! Max has just started his MRCLID PhD, supervised by Jodi Lindsay, myself and Kat Holt. We're looking forward to bringing a more bioinformatics angle to our research on transduction based transfer of AMR within clinical isolates. 
+### January 2023: Naomi Waterlow starts on my fellowship
+Excited to start working with long-time CMMIDer Naomi Waterlow on my MRC CDA fellowship! Naomi will be working firstly on the ECDC data analysis and then looking to expand other angles of my fellowship. 
 
+### September 2022: Max starts
+Welcome to Max Wallat! Max has just started his MRCLID PhD, supervised by Jodi Lindsay, myself and Kat Holt. We're looking forward to bringing a more bioinformatics angle to our research on transduction based transfer of AMR within clinical isolates. 
 
 ### September 2022 MRC CDA starts
 Excited to start data gathering and analysis on my new project. Advert [open](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-2022-34) until 30th September for data scientist to join the KnightGroup. Ideally looking for a statistician to complement the modelling proposed with experience in electronic health records. 
 
 ### July 2022: Alastair upgrading
-Congratulations to Alastiar for passing his upgrading - officially a PhD student once we've got some aims written more precisely as objectives! 
+Congratulations to Alastair for passing his upgrading - officially a PhD student once we've got some aims written more precisely as objectives! 
 
 ### July 2022: Quentin's viva
 Quentin passed his viva with minor corrections! Well Done Quentin! If you want to see a summary of his work you can check out some talks on [YouTube](https://www.youtube.com/channel/UCamYP_kVMo-46s3tRiAH4nQ).
