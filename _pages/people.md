@@ -7,6 +7,8 @@ title: "People"
 
 COVID-19 made meeting up regularly difficult and working from home is isolating. So a group of us now been meeting every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Check out my Twitter feed for examples of our interesting discussions. Currently 8 people meet regularly as part of "KnightGroup". 
 
+![Group_social_post_nextsteps2023](/least-github-pages/assets/2303nextsteps2.jpg)
+
 ## Research fellows & postdocs
 
 * [Naomi Waterlow](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi)
