@@ -9,12 +9,12 @@ COVID-19 made meeting up regularly difficult and working from home is isolating.
 
 ## Research fellows & postdocs
 
-* [Naomi Waterlow]([https://www.lshtm.ac.uk/aboutus/people/emes.eve](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi))
+* [Naomi Waterlow](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi)
     * Research Fellow (2023 - present), based at LSHTM 
     * Project: Working on my MRC CDA fellowship exploring patterns of resistance variation by age. 
     * Funding: MRC CDA 
 
-* [Eve (Tresco) Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve)
+* [Eve Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve)
     * Research Fellow (2021 - present), based at LSHTM 
     * Project: SEFASI building on work with A4NH. Economic modelling to evaluate the impact of interventions to reduce antibiotic usage in food-producing animals. 
     * Funding: Now SEFASI, but initially a collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research with [Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
