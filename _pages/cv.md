@@ -28,7 +28,7 @@ redirect_from:
 * Co-Director of the AMR Centre
 
 
-### 2021 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+### 2021 -- 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
 
 *Projects*:
 * Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
