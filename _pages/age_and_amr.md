@@ -1,5 +1,5 @@
 ---
-permalink: /age_amr/
+permalink: /age_and_amr/
 title: "Age&AMR"
 ---
 {% include base_path %}
