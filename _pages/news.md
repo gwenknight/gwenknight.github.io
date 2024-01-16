@@ -5,7 +5,7 @@ title: "News"
 {% include base_path %}
 
 ### October 2023: Our team wins a Vivli AMR Data Challenge prize
-Excited to announce that our team, led by Jake Wildfire, won the runner up innovation prize for this [data challenge](https://vivli.org/awardees-announced-for-the-vivli-amr-surveillance-open-data-re-use-data-challenge-funded-by-wellcome/)! Well done and thanks for a fun project to Jake and the rest of the team (Alastair Clements, Naomi Fuller and Naomi Waterlow)! Check out our github [here](https://github.com/aj-clements/Vivli-AMR-KG) for the final report and supporting code. 
+Excited to announce that our team, led by Jake Wildfire, won the runner up innovation prize for this [data challenge](https://vivli.org/awardees-announced-for-the-vivli-amr-surveillance-open-data-re-use-data-challenge-funded-by-wellcome/)! Well done and thanks for a fun project to Jake and the rest of the team (Alastair Clements, Naomi Fuller and Naomi Waterlow)! Check out our github [here](https://github.com/aj-clements/Vivli-AMR-KG) for the final report and supporting code. And now the video of our interview on [YouTube](https://www.youtube.com/watch?v=dnwoqP8Sur8)! 
 
 ### January 2023: Naomi Waterlow starts on my fellowship
 Excited to start working with long-time CMMIDer Naomi Waterlow on my MRC CDA fellowship! Naomi will be working firstly on the ECDC data analysis and then looking to expand other angles of my fellowship. 
