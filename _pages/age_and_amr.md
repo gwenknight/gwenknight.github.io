@@ -6,7 +6,7 @@ title: "Age&AMR"
 
 ### Why does AMR vary by age? 
 
-During my CDA, I'm trying to understand why prevalence of antibiotic resistance in infection varies by age. I've been told so many reasons that I'm trying to keep a list here. If you have any more do get in touch! Many of these reasons have been prompted by Naomi Waterlow and my first analysis of some European infection data, on a preprint [here](https://www.medrxiv.org/content/10.1101/2023.09.24.23296060v1). Most of the below reasons are high income setting specific, with a focus on understanding these HIC patterns, but some are general to global settings. 
+During my CDA, I'm trying to understand why prevalence of antibiotic resistance in infection varies by age. I've been told so many reasons that I'm trying to keep a list here. If you have any more do get in touch! Many of these reasons have been prompted by Naomi Waterlow and my first analysis of some European infection data, published [here](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004301). Most of the below reasons are high income setting specific, with a focus on understanding these HIC patterns, but some are general to global settings. 
 
 - Antibiotic use varies by age
   - Shape: Mostly in a "U" shape
