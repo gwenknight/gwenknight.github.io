@@ -5,14 +5,14 @@ title: "People"
 
 {% include base_path %}
 
-COVID-19 made meeting up regularly difficult and working from home is isolating. So a group of us now been meeting every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Check out my Twitter feed for examples of our interesting discussions. Currently 8 people meet regularly as part of "KnightGroup". 
+Started during COVID-19, a group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Check out my Twitter feed for examples of our interesting discussions. Currently 8 people meet regularly as part of "KnightGroup". 
 
 ![Group_social_post_nextsteps2023](/images/2303nextsteps2.jpg)
 
 ## Research fellows & postdocs
 
 * [Naomi Waterlow](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi)
-    * Research Fellow (2023 - present), based at LSHTM 
+    * Research Fellow (2023 - present), based at LSHTM, currently on maternity leave
     * Project: Working on my MRC CDA fellowship exploring patterns of resistance variation by age. 
     * Funding: MRC CDA 
 
