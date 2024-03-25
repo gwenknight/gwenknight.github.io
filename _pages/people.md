@@ -46,6 +46,12 @@ Started during COVID-19, a group of us meet every other week for FortKnight wher
     * Project: MRSA gene transfer
     * Funding: MRCLID fellowship
     * Co-supervisors: (primary): [Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
+  
+ * [Chaelin Kim](https://www.lshtm.ac.uk/aboutus/people/kim.chaelin)
+    * PhD Student (2023 - present) 
+    * Project: Modelling efficacy of new regimens for MDR-TB
+    * Funding: MRCLID fellowship
+    * Co-supervisors: (primary): [Finn McQuaid](https://www.lshtm.ac.uk/aboutus/people/mcquaid.finn) (LSHTM)
 
 ## *Past postdocs*
 
