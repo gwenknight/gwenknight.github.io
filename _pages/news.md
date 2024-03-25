@@ -4,6 +4,9 @@ title: "News"
 ---
 {% include base_path %}
 
+### March 2024: Our first age + sex paper is out! 
+Our work quantifying the age and sex patterns in bloodstream infections in Europe is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004301). 
+
 ### October 2023: Our team wins a Vivli AMR Data Challenge prize
 Excited to announce that our team, led by Jake Wildfire, won the runner up innovation prize for this [data challenge](https://vivli.org/awardees-announced-for-the-vivli-amr-surveillance-open-data-re-use-data-challenge-funded-by-wellcome/)! Well done and thanks for a fun project to Jake and the rest of the team (Alastair Clements, Naomi Fuller and Naomi Waterlow)! Check out our github [here](https://github.com/aj-clements/Vivli-AMR-KG) for the final report and supporting code. And now the video of our interview on [YouTube](https://www.youtube.com/watch?v=dnwoqP8Sur8)! 
 
