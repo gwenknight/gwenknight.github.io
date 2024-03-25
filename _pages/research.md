@@ -7,9 +7,9 @@ title: "Research"
 
 ## Research themes
 
-My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR), and now SARS-CoV-2. I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to informing the design of interventions for control. I work closely with experimental microbiologists as well as clinicians to get to the fundamentals of the dynamics of AbR. Using this experience of thinking about the sources of AbR, I have worked on trying to understand and quantify the spread of SARS-CoV-2, specifically in hospital settings.  
+My research is united by the use of mathematical modelling to tackle the spread of antibacterial resistance (AbR). I am interested in using cutting-edge quantitative methods to explore the many dimensions of AbR from it's basic genetic evolution, to environmental selection to informing the design of interventions for control. I work closely with experimental microbiologists as well as clinicians to get to the fundamentals of the dynamics of AbR. Using this experience of thinking about the sources of AbR, I have worked on trying to understand and quantify the spread of SARS-CoV-2, specifically in hospital settings.  
 
-### (1) Why does prevelance of resistance in infection vary by age? 
+### (1) Why does prevelance of resistance in infection vary by age and sex? 
 
 This is the focus of my MRC CDA. My three work packages here will involve 
 
@@ -17,7 +17,7 @@ This is the focus of my MRC CDA. My three work packages here will involve
 2. *modelling* to understand the underlying drivers 
 3. *intervention design* using the modelling and understanding to support better empiric therapy design.
  
-This project starts in September 2022 so watch this space... I am recruiting a data scientist to work alongside me - advert [here](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-2022-34). Deadline 30th September. 
+This project started in September 2022. We have published our first outcomes in PLoS Med [here] (https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004301)
 
 ### (2) Why aren't all bacteria resistant to all antibiotics? Why is diversity maintained? 
 
@@ -27,12 +27,12 @@ This variation is also often missing from mathematical models that aim to captur
 
 My work in this area has mainly focused on *S. aureus* where most resistance genes are moved horizontally between bacteria by bacteriophage. These super cool bacterial viruses not only need to be investigated as a potential future therapy but because they likely drive resistance evolution in many bacteria. To get to the heart of this problem I work with [Jodi Lindsay's lab](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) to perform microbiology experiments allowing us to get insight into bacteria, phage and antibiotic interactions. 
 
-Much of my research on bacteriophage has been led by my PhD student [Quentin Leclerc](https://scholar.google.com/citations?user=oSDPjWIAAAAJ&hl=en). He has developed a model of phage and bacterial interactions to measure the rate of generalised transduction which allows us to capture the dynamics of both phage and bacteria populations. A key to this was linking phage burst size to bacterial growth and a saturating function for the phage/bacterial interaction. From this we can start to understand at what rate bacterial populations maintain diversity and hence the patterns we seen in the clinic. 
+Much of my research on bacteriophage has been led by my former PhD student [Quentin Leclerc](https://scholar.google.com/citations?user=oSDPjWIAAAAJ&hl=en). He has developed a model of phage and bacterial interactions to measure the rate of generalised transduction which allows us to capture the dynamics of both phage and bacteria populations. A key to this was linking phage burst size to bacterial growth and a saturating function for the phage/bacterial interaction. From this we can start to understand at what rate bacterial populations maintain diversity and hence the patterns we seen in the clinic. We are extending this work now with current PhD student Alastair Clements. 
 
 I have also work on resistance diversity in *M. tuberculosis* with a focus on the importance of fitness costs to resistance - how do predictions of resistance burden vary when models include the true variation in fitness between resistant strains? Current research is exploring sub-MIC resistance diversity. 
 
 ### *Selected publications*
-[Bacterial-phage model](https://journals.asm.org/doi/full/10.1128/msystems.00135-22): In this paper we lay out our experimental work with *S. aureus* exploring the rate of generalised transduction and fit multiple model structures to it to determine the likely underlying dynamics and rates. 
+[Bacterial-phage model](https://journals.asm.org/doi/full/10.1128/msystems.00135-22) with [antibiotics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010746): In these papers we lay out our experimental work with *S. aureus* exploring the rate of generalised transduction and fit multiple model structures to it to determine the likely underlying dynamics and rates. We then extend this, using data from kill curves, to predice the interaction between antibiotics and phage. 
 
 [Variation in fitness in *M.tb*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4583567/): We showed the importance of variation in fitness to the future levels of MDR-TB. 
 
@@ -44,7 +44,7 @@ I have also work on resistance diversity in *M. tuberculosis* with a focus on th
 
 A fundamental aspect to AbR control is understanding where the AbR bacteria are selected for and transmitted from. We are interested in reducing the number of infections in humans with AbR bacteria. If most of this resistance is selected by antibiotic use in the community then we should reduce antibiotic use in primary care. If most was initially selected for in pigs, then we need to target antibiotic use and then onward transmission from pork products. These maps of selection and transmission are likely to vary by organism and resistance mechanism, but until they are mapped and more importantly, quantified (which is most important) we will be merely fire-fighting the end problem of AbR. My research here develops mathematical models and frameworks to assess the importance of different environments in different settings (e.g. UK vs. Senegal) and then their contribution to the economic burden. 
 
-In particular, I am PI of the SEFASI consortium which has funding to explore the impact of interventions at the farm level to reduce antibiotic prescribing in England, Senegal and Denmark. 
+In particular, I am PI of the [SEFASI consortium](https://www.lshtm.ac.uk/research/centres-projects-groups/sefasi) which has funding to explore the impact of interventions at the farm level to reduce antibiotic prescribing in England, Senegal and Denmark. 
 
 ### *Selected publications*
 [Quantifying where AbR comes from](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1121-8): In this work we used modelling to ask whether hospitals or community antibiotic prescribing was really the source of most selection of AbR finding that due to the large volumnes in primary care the community was very much the place to target stewardship interventions. 
@@ -83,6 +83,8 @@ I have also worked to understand how COVID-19 will affect AbR spread with collea
 
 
 ### *Selected publications*
+[Importance of hospital SARS-CoV-2 spread](https://www.nature.com/articles/s41586-023-06634-z): We explored the data on the burden and then modelled the importance of nosocomial spread of SARS-CoV-2 in England. 
+
 [Settings of transmission](https://wellcomeopenresearch.org/articles/5-83/v2): We set up a peer supported database of clusters of SARS-CoV-2 infections linked to transmission in specific settings. 
 
 [Contribution of hospitals to SARS-CoV-2 spread in England in the first half of 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07490-4): We found that approximately a fifth of those with identified COVID-19 in hospitals were likely infected in hospital but that hospitals contritbuted little to the wider epidemic.
