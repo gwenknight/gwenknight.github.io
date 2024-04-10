@@ -15,7 +15,7 @@ redirect_from:
 *Projects*:
 * Modelling the spread of antibiotic resistance variation by age with an MRC Career Development Award
 * Modelling the spread of SARS-CoV-2 in hospital environments 
-* Collaboration with Nichola Naylor and Tresco Emes on a One Health AMR project within SEFASI
+* Collaboration with Nichola Naylor and Eve Emes on a One Health AMR project within SEFASI
 * Involved in modelling with multiple sub-projects on [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Valerie Baede and Wilem van Wamel at Erasmus, MC 
 * SHINY app development for empiric prescribing with Zambian collaborators
 * Supervision of Naomi Fuller's PhD on resistance mutations in M.tb
@@ -33,7 +33,7 @@ redirect_from:
 *Projects*:
 * Modelling the spread of antibiotic resistance with an MRC Skills Development Fellowship
 * Modelling the spread of SARS-CoV-2 in hospital environments 
-* Collaboration with Nichola Naylor and Tresco Emes on a One Health AMR project with Jo Lines and Jeff Waage
+* Collaboration with Nichola Naylor and Eve Emes on a One Health AMR project with Jo Lines and Jeff Waage
 * Involved in modelling with multiple sub-projects on [MACOTRA](https://www.jpiamr.eu/supportedprojects/third-joint-callresult/), including work with Valerie Baede and Wilem van Wamel at Erasmus, MC 
 * Supervision of Quentin Leclerc's PhD on phage dynamics and S. aureus
 * Supervision of Naomi Fuller's PhD on resistance mutations in M.tb
