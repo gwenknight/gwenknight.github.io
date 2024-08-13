@@ -4,6 +4,9 @@ title: "News"
 ---
 {% include base_path %}
 
+### August 2024: Wellcome Grant on TB awarded
+I will be leading a Work Package on drug resistant (DR-)TB as part of a wider Wellcome funded project with Rein Houben led by Richard White at LSHTM. For this I'll be hiring a research assistant or fellow soon - please get in touch if you are interested in developing mathematical and statistical tools to better understand DR-TB working in an international consortium. 
+
 ### March 2024: Our first age + sex paper is out! 
 Our work quantifying the age and sex patterns in bloodstream infections in Europe is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004301). 
 
