@@ -4,6 +4,12 @@ title: "News"
 ---
 {% include base_path %}
 
+### December 2024: Celebrations all round! 
+Many congratulations to Eve Emes and Jake Wildfire for passing their PhD vivas! both passed with minor corrections and will soon be official Drs! I am also very excited to announce that I have been promoted to Professor. Many thanks to all those who have helped me on this awesome journey. 
+
+### October/November 2024: Travelling
+As part of the SEFASI consortium, I visited Michel Dione in Senegal - brilliant to meet someone in person after 4yrs of work together! I also travelled to Bali to meet with our Indonesian and South African collaborators in our start up meeting of the WellModTB grant. 
+
 ### August 2024: Wellcome Grant on TB awarded
 I will be leading a Work Package on drug resistant (DR-)TB as part of a wider Wellcome funded project with Rein Houben led by Richard White at LSHTM. For this I'll be hiring a research assistant or fellow soon - please get in touch if you are interested in developing mathematical and statistical tools to better understand DR-TB working in an international consortium. 
 
