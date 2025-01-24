@@ -11,7 +11,15 @@ title: "Grants"
 
 ## Current Grants
 
-### MRC Career Development Award:
+### Wellcome grant:
+
+### Title: WellModTB
+
+#### **Funder** [Wellcome Trust](https://wellcome.org/?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TfS7JfgtPxerlIAf2H6gRoBOnuJYJ4U9o7aGfts7CeCPahs5yAi9DBoCoK0QAvD_BwE)
+
+I am leading the Work Package on DR-TB with Abel Kjaersgaard. This project will use data analysis and mathematical modelling to explore patterns in drug resistance in TB by age and gender to inform improved use of new and future TB regimens as well as combination interventions. The project PI is [Richard White (LSHTM)](https://www.lshtm.ac.uk/aboutus/people/white.richard), with myself and [Rein Houben (LSHTM)](https://www.lshtm.ac.uk/aboutus/people/houben.rein) as co-leads. We are working closely with collaborating partners in Brazil, India, Indonesia and South Africa. For DR-TB some of our collaborators include [Dr Barbossa(FioCruz)](https://www.validate-network.org/people/theolis-costa-barbosa-bessa), [Prof Mehra (IIT Bombay)](https://www.che.iitb.ac.in/faculty/sarika-mehra) and [Prof Charalambous (Aurum Institue)](https://auruminstitute.org/about-aurum/group-executive-directors-and-global-management/professor-salome-charalambous). 
+
+### MRC Career Development Award (2022-2027):
 
 ### Title: Colliding crises: antimicrobial resistance and ageing
 
