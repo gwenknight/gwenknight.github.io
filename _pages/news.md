@@ -5,7 +5,7 @@ title: "News"
 {% include base_path %}
 
 ### January 2025: Welcome to Abel! 
-Very happy to wellcome Abel Kjaersgaard to the Knight Group. He will be the Research Assistant working on the WellModTB grant using modelling and dta analysis to explore the burden of DR-TB. 
+Very happy to wellcome Abel Kjaersgaard to the Knight Group. He will be the Research Assistant working on the WellModTB grant using modelling and data analysis to explore the burden of DR-TB, as well as interventions for control. 
 
 ### December 2024: Celebrations all round! 
 Many congratulations to Eve Emes and Jake Wildfire for passing their PhD vivas! both passed with minor corrections and will soon be official Drs! I am also very excited to announce that I have been promoted to Professor. Many thanks to all those who have helped me on this awesome journey. 
