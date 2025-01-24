@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the [London School of Hygiene and
+I am a Professor at the [London School of Hygiene and
 Tropical Medicine](https://www.lshtm.ac.uk/aboutus/people/knight.gwen) and co-Director of the [LSHTM AMR Centre](https://www.lshtm.ac.uk/research/centres/amr). I am currently funded by an [MRC
 Career Development
 Award](https://www.ukri.org/opportunity/career-development-award/)
