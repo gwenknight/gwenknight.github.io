@@ -23,7 +23,8 @@ A group of us meet every other week for FortKnight where we have presentations e
     * Project: Working on WellModTB 
     * Funding: Wellcome
 
-## Interns (with the right level of support I welcome Interns to my group - do get in touch if you can apply for supportive scholarships etc)
+## Interns 
+With the right level of support I welcome Interns to my group - do get in touch if you can apply for supportive scholarships etc.
 
 * Jakob Verhoeff
      * Medical student and intern (Dec 2024 - March 2025)
