@@ -5,9 +5,9 @@ title: "People"
 
 {% include base_path %}
 
-Started during COVID-19, a group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Check out my Twitter feed for examples of our interesting discussions. Currently 8 people meet regularly as part of "KnightGroup". 
+A group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Our fortnightly meetings are usually around 6-8 people who meet regularly as part of "KnightGroup". We also have 6monthly next steps meetings where we talk about future plans and reflect on acadmic progress (and academia!). 
 
-![Group_social_post_nextsteps2023](/images/2303nextsteps2.jpg)
+![Christmas_celebration_22](/images/22_christmas.jpg)
 
 ## Research fellows & postdocs
 
@@ -31,12 +31,20 @@ Started during COVID-19, a group of us meet every other week for FortKnight wher
      * Funding: University of Utrecht
     
 ## PhD Students
- 
+
+I have been very luck to supervise lots of brilliant PhD students, many of them funded through the MRCLID scheme. In December 2024 the four of them that have been under Jodi Lindsay and my supervision came together to celebrate Dr Wildfire's Viva, including Dr Leclerc over from Paris! 
+
+![wildfire_phd](/images/mrclid_PhD.jpg)
+
+My current PhD students are funded mostly by the [MRCLID](https://mrc-lid.lshtm.ac.uk/) and [LiDO](https://www.lido-dtp.ac.uk/) doctoral training programmes - great cohorts at LSHTM and across Bloomsbury. Do check out the application procedure which opens in November/December if you are interested in joining as a PhD student. 
+
+## Current PhD students
+  
 * [Naomi Fuller](https://www.lshtm.ac.uk/aboutus/people/fuller.naomi)
     * PhD Student (2020 - present) 
     * Project: Resistance evolution in the presence of combination therapy (focus on TB)
     * Funding: LiDO fellowship
-    * Co-supervisors: [Tim McHugh](https://www.ucl.ac.uk/tb/people/professor-tim-mchugh) (UCL)
+    * Co-supervisors: [Tim McHugh](https://www.ucl.ac.uk/tb/people/professor-tim-mchugh) (UCL) and [Nick Davies](https://www.lshtm.ac.uk/aboutus/people/davies.nicholas) (LSHTM). 
 
 * [Alastair Clements](https://www.lshtm.ac.uk/aboutus/people/clements.alastair)
     * PhD Student (2021 - present) 
@@ -55,6 +63,12 @@ Started during COVID-19, a group of us meet every other week for FortKnight wher
     * Project: Modelling efficacy of new regimens for MDR-TB
     * Funding: MRCLID fellowship
     * Co-supervisors: (primary): [Finn McQuaid](https://www.lshtm.ac.uk/aboutus/people/mcquaid.finn) (LSHTM)
+
+* Saron Tekie
+    * PhD Student (2024 - present) 
+    * Project: Genomic exploration of resistance evolution and spread in *Streptococcus suis*
+    * Funding: LiDO fellowship
+    * Co-supervisors: [Gemma Murray](https://sites.google.com/view/gemmamurray) (UCL)
 
 ## *Past postdocs*
 
