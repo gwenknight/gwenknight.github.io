@@ -7,7 +7,7 @@ title: "People"
 
 A group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Our fortnightly meetings are usually around 6-8 people who meet regularly as part of "KnightGroup". We also have 6monthly next steps meetings where we talk about future plans and reflect on acadmic progress (and academia!). 
 
-![Christmas_celebration_22](/images/22_christmas.jpg)
+![Christmas_celebration_22](/images/22_christmas.jpeg)
 
 ## Research fellows & postdocs
 
@@ -34,7 +34,7 @@ A group of us meet every other week for FortKnight where we have presentations e
 
 I have been very luck to supervise lots of brilliant PhD students, many of them funded through the MRCLID scheme. In December 2024 the four of them that have been under Jodi Lindsay and my supervision came together to celebrate Dr Wildfire's Viva, including Dr Leclerc over from Paris! 
 
-![wildfire_phd](/images/mrclid_PhD.jpg)
+![wildfire_phd](/images/mrclid_PhD.jpeg)
 
 My current PhD students are funded mostly by the [MRCLID](https://mrc-lid.lshtm.ac.uk/) and [LiDO](https://www.lido-dtp.ac.uk/) doctoral training programmes - great cohorts at LSHTM and across Bloomsbury. Do check out the application procedure which opens in November/December if you are interested in joining as a PhD student. 
 
