@@ -4,6 +4,12 @@ title: "News"
 ---
 {% include base_path %}
 
+### April 2025: ESCMID 
+I presented work from SEFASI at ESCMID Global in Vienna. Simon, Chaelin and Alastair all did well with poster presentations. Interesting to hear the latest on S. aureus treatment and carriage, as well as to catch up with lots of people in random meetings on that long corridor! 
+
+### March 2025: Welcome to Abel! 
+Good bye to Naomi! Wishing her all the best in industry, learning about bananas... Watch this space for new hire starting in July.
+
 ### January 2025: Welcome to Abel! 
 Very happy to wellcome Abel Kjaersgaard to the Knight Group. He will be the Research Assistant working on the WellModTB grant using modelling and data analysis to explore the burden of DR-TB, as well as interventions for control. 
 
