@@ -11,14 +11,14 @@ A group of us meet every other week for FortKnight where we have presentations e
 
 ## Research fellows & postdocs
 
-* [Naomi Waterlow](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi)
-    * Research Fellow (2023 - present), based at LSHTM
+* Lanre Edun
+    * Research Fellow (2025 - present), based at LSHTM
     * Project: Working on my MRC CDA fellowship exploring patterns of resistance variation by age. 
     * Funding: MRC CDA
  
 ## Research Assistants
 
-* Abel Kjaersgaard
+* [Abel Kjaersgaard](https://www.lshtm.ac.uk/aboutus/people/kjaersgaard.abel)
     * Research Assistant (2024 - present), based at LSHTM
     * Project: Working on WellModTB 
     * Funding: Wellcome
@@ -73,14 +73,20 @@ My current PhD students are funded mostly by the [MRCLID](https://mrc-lid.lshtm.
 
 ## *Past postdocs*
 
+* [Naomi Waterlow](https://www.lshtm.ac.uk/aboutus/people/waterlow.naomi)
+    * Now working as an infectious disease modeller at Food Systems Innovation & Delivery
+    * Research Fellow (2023 - 2025), based at LSHTM
+    * Project: Working on my MRC CDA fellowship exploring patterns of resistance variation by age. 
+    * Funding: MRC CDA
+
 * [Eve Emes](https://www.lshtm.ac.uk/aboutus/people/emes.eve)
-    * Research Fellow (2021 - present), based at LSHTM
+    * Research Fellow (2021 - 2024), based at LSHTM
     * Completed PhD by prior publication in 2024
     * Project: SEFASI building on work with A4NH. Economic modelling to evaluate the impact of interventions to reduce antibiotic usage in food-producing animals. 
     * Funding: Now SEFASI, but initially a collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research with [Jo Lines](https://www.lshtm.ac.uk/aboutus/people/lines.jo) (LSHTM) and [Jeff Waage](https://www.soas.ac.uk/staff/staff58054.php) (London International Development Centre) 
 
 * [Nichola Naylor](https://www.lshtm.ac.uk/aboutus/people/naylor.nichola)
-    * Now at Public Health England, Economist / Honorary contract at LSHTM 
+    * Moved to Public Health England, Economist / Honorary contract at LSHTM, now an independent consultant
     * Research Fellow (2018 - 2020), based at LSHTM 
     * Project: Evaluating the potential impact of interventions to reduce antimicrobial use in livestock on human antimicrobial resistance and drug-resistant infections, with a focus on low and middle income settings
     * Funding: A collaboration between LSHTM and the International Livestock Research Institute (ILRI) called ‘Agriculture for Nutrition and Health (A4NH)’, funded by the Consultative Group on International Agricultural Research
@@ -115,7 +121,7 @@ My current PhD students are funded mostly by the [MRCLID](https://mrc-lid.lshtm.
     * Funding: MRCLID fellowship
     * Co-supervisors (primary): [Jodi Lindsay](https://www.sgul.ac.uk/research-profiles-a-z/jodi-lindsay) (St George's, University of London)
 
-* [Quentin Leclerc](https://qleclerc.netlify.com/#about), now at Institut Pasteur. 
+* [Quentin Leclerc](https://qleclerc.netlify.com/#about), was at Institut Pasteur, now at INSERM.
     * PhD Student (2018 - 2022) 
     * Project: Modelling to understand horizontal gene transfer: the example of transduction in Methillin Resistant S. aureus (MRSA) 
     * Funding: MRC LID fellowship
