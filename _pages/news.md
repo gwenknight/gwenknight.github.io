@@ -4,6 +4,9 @@ title: "News"
 ---
 {% include base_path %}
 
+### July 2025: ESCMID 
+Very happy to announce that Lanre Edun has joined my team as part of my fellowship. He has just completed his PhD at Imperial College London, modelling HIV viremia and its contribution to transmission. 
+
 ### April 2025: ESCMID 
 I presented work from SEFASI at ESCMID Global in Vienna. Simon, Chaelin and Alastair all did well with poster presentations. Interesting to hear the latest on S. aureus treatment and carriage, as well as to catch up with lots of people in random meetings on that long corridor! 
 
