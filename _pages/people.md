@@ -11,7 +11,7 @@ A group of us meet every other week for FortKnight where we have presentations e
 
 ## Research fellows & postdocs
 
-* Lanre Edun
+* [Lanre Edun](https://profiles.lshtm.ac.uk/6634-lanre-edun)
     * Research Fellow (2025 - present), based at LSHTM
     * Project: Working on my MRC CDA fellowship exploring patterns of resistance variation by age. 
     * Funding: MRC CDA
