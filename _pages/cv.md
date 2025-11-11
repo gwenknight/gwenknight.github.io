@@ -10,7 +10,21 @@ redirect_from:
 {% include base_path %}
 
 
-### 2022 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+### 2024 -- present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, London School of Hygiene and Tropical Medicine (LSHTM)
+
+*Projects*:
+* Modelling the spread of antibiotic resistance variation by age with an MRC Career Development Award
+* WellModTB project: leading the DR-TB workpackage
+* Collaboration on RADIX project with UCLH 
+* Supervision of Naomi Fuller's PhD on resistance mutations in M.tb
+* Supervision of Alastair Clements' PhD on the interaction between phage, antibiotics and generalised transduction in S. aureus
+* Supervision of Hide Matsuzaki's PhD on AMR variation between the UK and Japan
+
+*Community*:
+* Co-organiser of the AMR Centre Short Course at LSHTM 
+* Co-Director of the AMR Centre
+
+### 2022 -- 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, London School of Hygiene and Tropical Medicine (LSHTM)
 
 *Projects*:
 * Modelling the spread of antibiotic resistance variation by age with an MRC Career Development Award
