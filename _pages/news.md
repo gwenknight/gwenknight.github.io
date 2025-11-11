@@ -4,17 +4,20 @@ title: "News"
 ---
 {% include base_path %}
 
-### July 2025: ESCMID 
+### November 2025: New publication
+How will AMR vary into the future? how will demographic shifts affect this burden prediction? Naomi Waterlow's last paper with me is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004579). We worked to combined (a) bloodstream incidence estimates with (b) population shifts and (c) resistance prevalence by age and sex to generate future burden estimates of DR-BSI across Europe. We could also use this simple framework to explore intervention impact, finding that keeping AMR levels steady into the future will be itself an achievement. 
+
+### July 2025: Welcome to Lanre!  
 Very happy to announce that [Lanre Edun](https://profiles.lshtm.ac.uk/6634-lanre-edun) has joined my team as part of my fellowship. He has just completed his PhD at Imperial College London, modelling HIV viremia and its contribution to transmission. 
 
 ### April 2025: ESCMID 
 I presented work from SEFASI at ESCMID Global in Vienna. Simon, Chaelin and Alastair all did well with poster presentations. Interesting to hear the latest on S. aureus treatment and carriage, as well as to catch up with lots of people in random meetings on that long corridor! 
 
-### March 2025: Welcome to Abel! 
+### March 2025: Farewell Naomi!  
 Good bye to Naomi! Wishing her all the best in industry, learning about bananas... Watch this space for new hire starting in July.
 
 ### January 2025: Welcome to Abel! 
-Very happy to wellcome Abel Kjaersgaard to the Knight Group. He will be the Research Assistant working on the WellModTB grant using modelling and data analysis to explore the burden of DR-TB, as well as interventions for control. 
+Very happy to wellcome [Abel Kjaersgaard](https://www.lshtm.ac.uk/aboutus/people/kjaersgaard.abel) to the Knight Group. He will be the Research Assistant working on the WellModTB grant using modelling and data analysis to explore the burden of DR-TB, as well as interventions for control. 
 
 ### December 2024: Celebrations all round! 
 Many congratulations to Eve Emes and Jake Wildfire for passing their PhD vivas! both passed with minor corrections and will soon be official Drs! I am also very excited to announce that I have been promoted to Professor. Many thanks to all those who have helped me on this awesome journey. 
