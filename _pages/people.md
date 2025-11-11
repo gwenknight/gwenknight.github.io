@@ -72,10 +72,10 @@ My current PhD students are funded mostly by the [MRCLID](https://mrc-lid.lshtm.
     * Co-supervisors: [Gemma Murray](https://sites.google.com/view/gemmamurray) (UCL)
  
  * [Hidenobu Matsuzaki](https://www.lshtm.ac.uk/study/student-experience/student-ambassadors/hidenobu-matsuzaki)
- *    PhD student (2025 - present)
- *    Project: Antimicrobial resistance variation by age and sex across the UK and Japan
- *    Funding: Nagasaki-LSHTM joint programme
- *    Co-supervisors: [Prof. Tanaka](https://www.tm.nagasaki-u.ac.jp/internal/about/tanaka.html), [Prof. Tsuzuki](https://researchmap.jp/stsuzuki), [Prof. Asai](https://researchmap.jp/0207/research_experience/21197323?limit=120),  and [Prof. Ohmagari](https://dcc.jihs.go.jp/about/030/index.html)
+    * PhD student (2025 - present)
+    * Project: Antimicrobial resistance variation by age and sex across the UK and Japan
+    *  Funding: Nagasaki-LSHTM joint programme
+    *  Co-supervisors: [Prof. Tanaka](https://www.tm.nagasaki-u.ac.jp/internal/about/tanaka.html), [Prof. Tsuzuki](https://researchmap.jp/stsuzuki), [Prof. Asai](https://researchmap.jp/0207/research_experience/21197323?limit=120),  and [Prof. Ohmagari](https://dcc.jihs.go.jp/about/030/index.html)
 
 ## *Past postdocs*
 
