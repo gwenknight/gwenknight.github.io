@@ -7,6 +7,9 @@ title: "News"
 ### November 2025: New publication
 How will AMR vary into the future? how will demographic shifts affect this burden prediction? Naomi Waterlow's last paper with me is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004579). We worked to combined (a) bloodstream incidence estimates with (b) population shifts and (c) resistance prevalence by age and sex to generate future burden estimates of DR-BSI across Europe. We could also use this simple framework to explore intervention impact, finding that keeping AMR levels steady into the future will be itself an achievement. 
 
+### September 2025: Welcome to Hide! 
+Excited to announce that [Hide Matsuzaki](https://www.lshtm.ac.uk/study/student-experience/student-ambassadors/hidenobu-matsuzaki) is starting a joint LSHTM-Nagasaki PhD with me to study the variation in AMR between the UK and Japan.
+
 ### July 2025: Welcome to Lanre!  
 Very happy to announce that [Lanre Edun](https://profiles.lshtm.ac.uk/6634-lanre-edun) has joined my team as part of my fellowship. He has just completed his PhD at Imperial College London, modelling HIV viremia and its contribution to transmission. 
 
