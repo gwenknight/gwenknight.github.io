@@ -5,7 +5,7 @@ title: "People"
 
 {% include base_path %}
 
-A group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing / someone else's work. Our fortnightly meetings are usually around 6-8 people who meet regularly as part of "KnightGroup". We also have 6monthly next steps meetings where we talk about future plans and reflect on acadmic progress (and academia!). 
+A group of us meet every other week for FortKnight where we have presentations either on our own work or a problem we are facing or someone else's work. Our fortnightly meetings are usually around 6-8 people who meet regularly as part of "KnightGroup". We also have 6monthly next steps meetings where we talk about future plans and reflect on academic progress (and academia!). 
 
 ![Christmas_celebration_22](/images/22_christmas.jpeg)
 
@@ -33,7 +33,7 @@ With the right level of support I welcome Interns to my group - do get in touch 
     
 ## PhD Students
 
-I have been very luck to supervise lots of brilliant PhD students, many of them funded through the MRCLID scheme. In December 2024 the four of them that have been under Jodi Lindsay and my supervision came together to celebrate Dr Wildfire's Viva, including Dr Leclerc over from Paris! 
+I have been very lucky to supervise lots of brilliant PhD students, many of them funded through the MRCLID scheme. In December 2024 the four of them that have been under Jodi Lindsay and my supervision came together to celebrate Dr Wildfire's Viva, including Dr Leclerc over from Paris! 
 
 ![wildfire_phd](/images/mrclid_PhD.jpeg)
 
