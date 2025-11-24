@@ -4,6 +4,9 @@ title: "News"
 ---
 {% include base_path %}
 
+### November 2025: PhD projects available
+As part of the MRC-LID PhD scheme at LSHTM I have two projects available. [One] (https://mrc-lid.lshtm.ac.uk/2026-27-project-knight-edun-lindsay/) builds on my fellowship work to work on the patterns we are finding in AMR by age and by sex - specifically looking at resistance combinations. [The other](https://mrc-lid.lshtm.ac.uk/2026-27-project-dyson-mostowy-knight/) would be an exciting new collaboration looking at phage dynamics in an interdisciplinary project combining wetlab work with bioinformatics and modelling. Do get in touch by email if you are interested in applying! 
+
 ### November 2025: New publication
 How will AMR vary into the future? how will demographic shifts affect this burden prediction? Naomi Waterlow's last paper with me is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004579). We worked to combined (a) bloodstream incidence estimates with (b) population shifts and (c) resistance prevalence by age and sex to generate future burden estimates of DR-BSI across Europe. We could also use this simple framework to explore intervention impact, finding that keeping AMR levels steady into the future will be itself an achievement. 
 
