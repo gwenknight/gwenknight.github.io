@@ -4,8 +4,12 @@ title: "News"
 ---
 {% include base_path %}
 
+
+### November 2025: Understanding and Predicting Microbial Evolutionary Dynamics
+I thoroughly enjoyed this [two day meeting]( https://microbiologysociety.org/event/society-events-and-meetings/understanding-and-predicting-microbial-evolutionary-dynamics-2025.html#tab-1) organised by the Microbiology Society. Great to see such interesting work especially coming out of the groups in Manchester. My talk on whether antibiotic use really drives AMR seems to go down well with lots of follow-up on using the antibiotic use data and thoughts about the differences in AMR by sex!
+
 ### November 2025: PhD projects available
-As part of the MRC-LID PhD scheme at LSHTM I have two projects available. [One] (https://mrc-lid.lshtm.ac.uk/2026-27-project-knight-edun-lindsay/) builds on my fellowship work to work on the patterns we are finding in AMR by age and by sex - specifically looking at resistance combinations. [The other](https://mrc-lid.lshtm.ac.uk/2026-27-project-dyson-mostowy-knight/) would be an exciting new collaboration looking at phage dynamics in an interdisciplinary project combining wetlab work with bioinformatics and modelling. Do get in touch by email if you are interested in applying! 
+As part of the MRC-LID PhD scheme at LSHTM I have two projects available. [One](https://mrc-lid.lshtm.ac.uk/2026-27-project-knight-edun-lindsay/) builds on my fellowship work to work on the patterns we are finding in AMR by age and by sex - specifically looking at resistance combinations. [The other](https://mrc-lid.lshtm.ac.uk/2026-27-project-dyson-mostowy-knight/) would be an exciting new collaboration looking at phage dynamics in an interdisciplinary project combining wetlab work with bioinformatics and modelling. Do get in touch by email if you are interested in applying! 
 
 ### November 2025: New publication
 How will AMR vary into the future? how will demographic shifts affect this burden prediction? Naomi Waterlow's last paper with me is now out in [PLoS Med](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004579). We worked to combined (a) bloodstream incidence estimates with (b) population shifts and (c) resistance prevalence by age and sex to generate future burden estimates of DR-BSI across Europe. We could also use this simple framework to explore intervention impact, finding that keeping AMR levels steady into the future will be itself an achievement. 
