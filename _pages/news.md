@@ -4,6 +4,8 @@ title: "News"
 ---
 {% include base_path %}
 
+### March 2026: Wellcome conference: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies
+Well done to Lanre for a great presentation showing our preliminary results on the link between antibiotic use and resistance and how it varies by age and gender. 
 
 ### November 2025: Understanding and Predicting Microbial Evolutionary Dynamics
 I thoroughly enjoyed this [two day meeting]( https://microbiologysociety.org/event/society-events-and-meetings/understanding-and-predicting-microbial-evolutionary-dynamics-2025.html#tab-1) organised by the Microbiology Society. Great to see such interesting work especially coming out of the groups in Manchester. My talk on whether antibiotic use really drives AMR seems to go down well with lots of follow-up on using the antibiotic use data and thoughts about the differences in AMR by sex!
