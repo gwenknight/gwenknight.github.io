@@ -4,6 +4,12 @@ title: "News"
 ---
 {% include base_path %}
 
+### April 2026: ESCMID Global, Munich
+I'm excited to be spending a few months in the group of the great Prof. [Claudia Denkinger](https://www.klinikum.uni-heidelberg.de/personen/prof-dr-med-claudia-denkinger-7216/) learning more about diagnostics for TB. It was great to present on AMR modelling and our gender-AMR framework. 
+
+### April 2026: Sabbatical / Study leave in Heidelberg
+I'm excited to be spending a few months in the group of the great Prof. [Claudia Denkinger](https://www.klinikum.uni-heidelberg.de/personen/prof-dr-med-claudia-denkinger-7216/) learning more about diagnostics for TB.  
+
 ### March 2026: Wellcome conference: Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies
 Well done to Lanre for a great presentation showing our preliminary results on the link between antibiotic use and resistance and how it varies by age and gender. 
 
