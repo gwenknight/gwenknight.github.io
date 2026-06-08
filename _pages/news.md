@@ -4,8 +4,11 @@ title: "News"
 ---
 {% include base_path %}
 
+### June 2026: SWIM meeting
+I'm presenting at this South-West German infectious disease modelling [workshop](http://swim-workshop.de/amr.html). It will be nice to spend a day thinking about AMR modelling! 
+
 ### April 2026: ESCMID Global, Munich
-I'm excited to be spending a few months in the group of the great Prof. [Claudia Denkinger](https://www.klinikum.uni-heidelberg.de/personen/prof-dr-med-claudia-denkinger-7216/) learning more about diagnostics for TB. It was great to present on AMR modelling and our gender-AMR framework. 
+It was great to present on AMR modelling and our gender-AMR framework at ECSMID with Lanre. 
 
 ### April 2026: Sabbatical / Study leave in Heidelberg
 I'm excited to be spending a few months in the group of the great Prof. [Claudia Denkinger](https://www.klinikum.uni-heidelberg.de/personen/prof-dr-med-claudia-denkinger-7216/) learning more about diagnostics for TB.  
